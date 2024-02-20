@@ -1,4 +1,4 @@
-baseURL = 'http://lemon73-computing.github.io/'
+baseURL = 'http://lemon73-computing.github.io/blog/'
 languageCode = 'ja-jp'
 title = 'Lemon73 Blog'
 theme = 'stack'

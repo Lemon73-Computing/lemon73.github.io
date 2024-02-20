@@ -1,4 +1,4 @@
-baseurl = "https://lemon73-computing.github.io"
+baseurl = "https://lemon73-computing.github.io/blog/"
 languageCode = "ja-jp"
 paginate = 5
 title = "Lemon73 Blog"

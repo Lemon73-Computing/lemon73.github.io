@@ -2,7 +2,7 @@
 #[[main]]
 #identifier = "home"
 #name = "Home"
-#url = "/"
+#url = "/blog/"
 #[main.params]
 #icon = "home"
 #newtab = true
@@ -26,7 +26,7 @@ icon = "brand-github"
 [[social]]
 identifier = "rss"
 name = "RSS"
-url = "/index.xml"
+url = "/blog/index.xml"
 
 [social.params]
 icon = "rss"
