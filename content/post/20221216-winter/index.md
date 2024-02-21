@@ -1,7 +1,7 @@
 ---
 title: 2022年冬休止
 description: 活動休止についての公開用資料です。
-slug: 20221216-winter-stop
+slug: 20221216-winter
 date: 2022-12-16 11:27:58+0900
 categories:
     - 計画
