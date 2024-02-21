@@ -1,6 +1,11 @@
-# Rename this file to languages.toml to enable multilingual support
 [ja]
 languageName = "Japanese"
 languagedirection = "ltr"
 title = "Lemon73 Blog"
 weight = 1
+
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "Lemon73 Blog"
+weight = 2
