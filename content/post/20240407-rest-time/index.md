@@ -1,7 +1,7 @@
 ---
 title: 2024年休止計画 - 1
 description: 長期間に及ぶ活動休止
-slug: 20240407-rest-time-1
+slug: 20240407-rest-time
 date: 2024-04-07 12:30:53+0900
 categories:
     - 計画
