@@ -2,7 +2,7 @@
 title: 2024年3月計画 最終報告
 description: 結果報告
 slug: 20240407-spring
-date: 2024-04-07 00:00:00+0900
+date: 2024-04-07 01:31:00+0900
 categories:
     - 計画
     - 開発
