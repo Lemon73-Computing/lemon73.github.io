@@ -27,5 +27,5 @@ LEC ではこの様な非公開の取引より、公開した取引を推奨し�
 公開で許諾をとっている場合は、前例をもとに交渉を行うことで、交渉の簡易化を行うことが可能です。
 
 ## 公開
-- [旧ウェブサイト](https://lemon73-computing.github.io/LEC-MainSite/docs/rule/001-open-chat) (2024/1/23)
+- [旧ウェブサイト](https://lemon73-computing.github.io/docs/rule/001-open-chat) (2024/1/23)
 - [Lemon73 Blog (ここ)](./) (2024/2/29)
