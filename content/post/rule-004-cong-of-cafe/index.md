@@ -62,11 +62,11 @@ tags:
 ### 発布
 本会則は2024/5/26より実行する。
 
-## 歴史と改定
+---
+履歴
 - 2024/5/23 - [草案作成](https://github.com/Lemon73-Computing/blog/issues/14#issuecomment-2126447272)
 - 2024/5/26 - 初版公開
 
----
 参考
 - [会則 - 日本 KDE](https://jp.kde.org/community/regulations/)
 - [Estatutos - KDE ESPAÑA](https://www.kde-espana.org/estatutos)
@@ -75,5 +75,5 @@ tags:
 - [日本国憲法 第21条 (結社の自由) - 衆議院](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm#:~:text=第二十一条%E3%80%80集会、結社及び言論、出版その他一切の表現の自由は、これを保障する。)
 
 ## 公開
-- [GitHub blog#14](https://github.com/Lemon73-Computing/blog/issues/14#issuecomment-2126447272) (2024/5/23)
+- [blog#14 - GitHub](https://github.com/Lemon73-Computing/blog/issues/14#issuecomment-2126447272) (2024/5/23)
 - [Lemon73 Blog (ここ)](./) (2024/5/26)
