@@ -51,5 +51,5 @@ tags:
 投稿はたいていRedditで行っています。
 
 ## 公開
-- [旧ウェブサイト](https://lemon73-computing.github.io/docs/20240101-new-year) (2024/1/1)
+- [Lemon's Resting Area website](https://lemon73-computing.github.io/docs/20240101-new-year) (2024/1/1)
 - [Lemon73 Blog (ここ)](./) (2024/2/25)

@@ -58,6 +58,6 @@ LF2204 - 冬 - (今年最後の冬季大祭)
 
 ## 公開
 - [Discord](https://discord.com/channels/972718425937952798/972725666778873898/1037414721323810868) (2022/11/3)
-- [旧ウェブサイト](https://lemon73-computing.github.io/docs/20221103-fall) (2023/2/20)
-- [新ウェブサイト](https://lemon73.gitlab.io/docs/20221103) (2023/6/13)
+- [Lemon's Resting Area website](https://lemon73-computing.github.io/docs/20221103-fall) (2023/2/20)
+- [LEC website](https://lemon73.gitlab.io/docs/20221103) (2023/6/13)
 - [Lemon73 Blog (ここ)](./) (2024/2/21)

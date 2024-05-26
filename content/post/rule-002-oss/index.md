@@ -19,5 +19,5 @@ OSS は誰でも自由に利用することが可能です。
 開発や製作、研究の際に有料ソフトウェアの障壁で諦めることがないように、 LEC では無料ソフトウェア(特に OSS) のみで開発ができる環境を目指しています。
 
 ## 公開
-- [旧ウェブサイト](https://lemon73-computing.github.io/docs/rule/002-oss) (2024/1/23)
+- [Lemon's Resting Area website](https://lemon73-computing.github.io/docs/rule/002-oss) (2024/1/23)
 - [Lemon73 Blog (ここ)](./) (2024/2/29)
