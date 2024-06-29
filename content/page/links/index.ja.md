@@ -14,9 +14,9 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+この機能を利用するには、`links` セクションをフロントマターに追加してください。
 
-This page's frontmatter:
+このページのフロントマター:
 
 ```yaml
 links:
@@ -30,4 +30,4 @@ links:
     image: ts-logo-128.jpg
 ```
 
-`image` field accepts both local and external images.
+`image` フィールドは内部と外部の画像両方に対応しています。
