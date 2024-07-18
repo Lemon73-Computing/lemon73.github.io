@@ -4,10 +4,10 @@ description: 2022年秋から2023年前半に向けての計画をまとめた�
 slug: 20221103-fall
 date: 2022-11-03 02:15:14+0900
 categories:
-    - 計画
-    - 開発
+    - Project
+    - Develop
 tags:
-    - 資料
+    - Docs
 ---
 
 秘密計画に関しては秘匿としています。

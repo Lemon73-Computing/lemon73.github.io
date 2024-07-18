@@ -4,9 +4,9 @@ description: 茶屋計画体制
 slug: rule-004-cong-of-cafe
 date: 2024-05-26 21:55:15+0900
 categories:
-    - 檸法理
+    - Rules
 tags:
-    - 資料
+    - Congress
 ---
 
 > 茶屋計画体制 - The Congress of Cafeteria Initiative

@@ -4,10 +4,10 @@ description: 活動休止についての公開用資料です。
 slug: 20221216-winter
 date: 2022-12-16 11:27:58+0900
 categories:
-    - 計画
-    - 開発
+    - Project
+    - Develop
 tags:
-    - 資料
+    - Docs
 ---
 
 ## 発行

@@ -4,9 +4,9 @@ description: Cafeteria Initiative
 slug: 20240319-cafe-project
 date: 2024-03-19 20:10:00+0900
 categories:
-    - 計画
+    - Project
 tags:
-    - 資料
+    - Docs
 ---
 
 ## 概要

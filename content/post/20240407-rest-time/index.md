@@ -4,9 +4,9 @@ description: 長期間に及ぶ活動休止
 slug: 20240407-rest-time
 date: 2024-04-07 12:30:53+0900
 categories:
-    - 計画
+    - Project
 tags:
-    - 資料
+    - Docs
 ---
 
 ## 概要

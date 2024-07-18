@@ -4,9 +4,9 @@ description: 思想と創作物評価の分離
 slug: rule-003-ideology-culture
 date: 2024-03-08 00:39:56+0900
 categories:
-    - 檸法理
+    - Rules
 tags:
-    - 資料
+    - Original theory
 ---
 
 LECでは思想と創作物評価の分離を推奨しています。

@@ -4,10 +4,10 @@ description: Happy New Year!!
 slug: 20240101-new-year
 date: 2024-01-01 20:23:00+0900
 categories:
-    - 計画
-    - 開発
+    - Project
+    - Develop
 tags:
-    - 資料
+    - Docs
 ---
 
 この資料では、現時点で決定している今後の方針について記載しています。

@@ -4,10 +4,10 @@ description: 事業整理及び作業効率の向上を目的とした計画。
 slug: 20240219-spring
 date: 2024-02-19 23:22:33+0900
 categories:
-    - 計画
-    - 開発
+    - Project
+    - Develop
 tags:
-    - 資料
+    - Docs
 ---
 
 ## 基本情報

@@ -4,10 +4,10 @@ description: 2023年夏休止 - 音楽関係資料
 slug: 20230607-music
 date: 2023-06-07 23:43:43+0900
 categories:
-    - 音楽
+    - Music
 tags:
-    - 資料
-    - ソフトウェア
+    - Docs
+    - Software
 ---
 
 本資料では、 LEC で利用している音楽関連のソフトウェアについて記す。
