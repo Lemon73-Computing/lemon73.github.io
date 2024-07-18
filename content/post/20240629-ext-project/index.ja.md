@@ -4,10 +4,10 @@ description: 基礎研究 (LFA)
 slug: 20240629-ext-project
 date: 2024-06-29 21:08:20+0900
 categories:
-    - 計画
-    - レモン研究所
+    - Project
+    - Lemon Future Academy
 tags:
-    - 資料
+    - Basic research
 ---
 
 ## 概要

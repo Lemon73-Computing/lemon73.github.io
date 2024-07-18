@@ -7,7 +7,7 @@ categories:
     - Project
     - Lemon Future Academy
 tags:
-    - Docs
+    - Basic research
 ---
 
 ## Summary

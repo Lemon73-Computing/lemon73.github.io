@@ -4,9 +4,10 @@ description: 会話の開示
 slug: rule-001-open-chat
 date: 2024-01-23 22:33:00+0900
 categories:
-    - 檸法理
+    - Rules
 tags:
-    - 資料
+    - Foreign policy
+    - Doctrine
 ---
 
 LEC では情報開示制度を推奨しています。
