@@ -4,10 +4,10 @@ description: 基礎研究 (LFA)
 slug: 20240629-ext-project
 date: 2024-06-29 21:08:20+0900
 categories:
-    - 計画
-    - レモン研究所
+    - Project
+    - Lemon Future Academy
 tags:
-    - 資料
+    - Basic research
 ---
 
 ## 概要
@@ -24,7 +24,9 @@ tags:
 1. **ext**ended file system - Linux フォーマット形式
 
 ## 時期
-2024/7/1 (月) - 2024/7/12 (金) (2週間)
+~~2024/7/1 (月) - 2024/7/12 (金) (2週間)~~
+
+変更: 2024/7/16 (火) - 2024/7/22 (月) (1週間)
 
 ## 詳細
 (秘匿)

@@ -4,10 +4,10 @@ description: 結果報告
 slug: 20240407-spring
 date: 2024-04-07 01:31:00+0900
 categories:
-    - 計画
-    - 開発
+    - Project
+    - Develop
 tags:
-    - 資料
+    - Docs
 ---
 
 ## 概要

@@ -4,9 +4,9 @@ description: OSS の推奨
 slug: rule-002-oss
 date: 2024-01-23 22:49:00+0900
 categories:
-    - 檸法理
+    - Rules
 tags:
-    - 資料
+    - Software
 ---
 
 LEC では OSS を推奨しています。

@@ -4,10 +4,10 @@ description: 進捗報告
 slug: 20240316-spring
 date: 2024-03-16 14:40:00+0900
 categories:
-    - 計画
-    - 開発
+    - Project
+    - Develop
 tags:
-    - 資料
+    - Docs
 ---
 
 ## 目的

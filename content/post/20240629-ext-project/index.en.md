@@ -7,7 +7,7 @@ categories:
     - Project
     - Lemon Future Academy
 tags:
-    - Docs
+    - Basic research
 ---
 
 ## Summary
@@ -24,7 +24,9 @@ Name
 1. **ext**ended file system
 
 ## Season
-Monday, July 1, 2024 - Friday, July 12, 2024 (two weeks)
+~~Monday, July 1, 2024 - Friday, July 12, 2024 (two weeks)~~
+
+Changed: Thursday, July 16, 2024 - Monday, July 22, 2024 (a week)
 
 ## Details
 (Secret)
