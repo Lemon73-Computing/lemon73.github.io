@@ -6,6 +6,7 @@ date: 2024-08-04 23:46:00+0900
 categories:
     - Project
     - Develop
+    - "Progress: Plans"
 tags:
     - Software
     - SkyColors

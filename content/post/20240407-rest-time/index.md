@@ -5,6 +5,7 @@ slug: 20240407-rest-time
 date: 2024-04-07 12:30:53+0900
 categories:
     - Project
+    - "Progress: Finished"
 tags:
     - Docs
 ---

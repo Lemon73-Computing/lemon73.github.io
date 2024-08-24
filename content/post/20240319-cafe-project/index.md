@@ -5,6 +5,7 @@ slug: 20240319-cafe-project
 date: 2024-03-19 20:10:00+0900
 categories:
     - Project
+    - "Progress: Success"
 tags:
     - Docs
 ---

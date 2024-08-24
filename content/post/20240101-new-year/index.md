@@ -6,6 +6,7 @@ date: 2024-01-01 20:23:00+0900
 categories:
     - Project
     - Develop
+    - "Progress: Finished"
 tags:
     - Docs
 ---
