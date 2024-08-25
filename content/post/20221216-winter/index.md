@@ -6,6 +6,7 @@ date: 2022-12-16 11:27:58+0900
 categories:
     - Project
     - Develop
+    - "Progress: Finished"
 tags:
     - Docs
 ---

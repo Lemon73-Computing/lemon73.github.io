@@ -6,8 +6,10 @@ date: 2024-06-30 21:08:20+0900
 categories:
     - Project
     - Lemon Future Academy
+    - "Progress: Failure"
 tags:
     - Basic research
+draft: true
 ---
 
 ## Summary
