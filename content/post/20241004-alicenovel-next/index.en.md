@@ -1,5 +1,5 @@
 ---
-title: Release Schedule: Alice Novel v0.9.3
+title: "Release Schedule: Alice Novel v0.9.3"
 description: Release schedule of next version
 slug: 20241004-alicenovel-next
 date: 2024-10-04 21:20:00+0900
