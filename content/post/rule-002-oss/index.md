@@ -6,10 +6,10 @@ date: 2024-01-23 22:49:00+0900
 categories:
     - Rules
 tags:
-    - Software
+    - Applications
 ---
 
-LEC では OSS を推奨しています。
+LRA では OSS を推奨しています。
 
 ## OSS の推奨
 OSS は誰でも自由に利用することが可能です。

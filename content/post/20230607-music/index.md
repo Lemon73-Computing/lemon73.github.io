@@ -7,7 +7,7 @@ categories:
     - Music
 tags:
     - Docs
-    - Software
+    - Applications
 ---
 
 本資料では、 LEC で利用している音楽関連のソフトウェアについて記す。

@@ -8,7 +8,7 @@ categories:
     - Develop
     - "Progress: Plans"
 tags:
-    - Software
+    - Applications
     - SkyColors
 ---
 
