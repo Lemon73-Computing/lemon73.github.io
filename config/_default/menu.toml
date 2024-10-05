@@ -1,9 +1,18 @@
 # Configure main menu and social menu
-[[main]]
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
 identifier = "home"
 name = "Home"
-url = "/"
-[main.params]
+url = "https://lemon73-computing.github.io/"
+
+[social.params]
 icon = "home"
 newtab = true
 
