@@ -11,7 +11,7 @@ tags:
     - Release schedule
 ---
 
-I am planning to release next version, v0.9.3 of Alice Novel. That's include some ci/cd fixes, changing directory structured and updated packages.
+I am planning to release next version, v0.9.3 of Alice Novel. That's include some CI/CD fixes, changing directory structured and dependencies update.
 
 ### Currently
 
@@ -34,7 +34,7 @@ And, this application has issue about its save system. So the system has bugs an
 
 In addition, I think that [#69](https://github.com/AliceNovel/AliceNovel/issues/69) (disable the save button until read `.anproj` file) and [#10](https://github.com/AliceNovel/AliceNovel/issues/10) (i18n English) is easy to close issue.
 
-In short, I have a view to fix [#76](https://github.com/AliceNovel/AliceNovel/pull/76), [#67](https://github.com/AliceNovel/AliceNovel/pull/67) (include [#61](https://github.com/AliceNovel/AliceNovel/issues/61) for Android and [#47](https://github.com/AliceNovel/AliceNovel/issues/47) for Windows) , [#69](https://github.com/AliceNovel/AliceNovel/pull/69), [#10](https://github.com/AliceNovel/AliceNovel/pull/10) and some refactoring by the release of v0.9.3.
+In short, I have a view to fix [#76](https://github.com/AliceNovel/AliceNovel/pull/76), [#67](https://github.com/AliceNovel/AliceNovel/pull/67) (include [#61](https://github.com/AliceNovel/AliceNovel/issues/61) for Android and [#47](https://github.com/AliceNovel/AliceNovel/issues/47) for Windows), [#69](https://github.com/AliceNovel/AliceNovel/pull/69), [#10](https://github.com/AliceNovel/AliceNovel/pull/10) and some refactoring by the release of v0.9.3.
 
 ## Distribute
-- [Lemon73 Blog (here)](./) (October 04, 2024)
+- [Lemon73 Blog (here)](./) (EN: October 04, 2024 / JP: October 05, 2024)
