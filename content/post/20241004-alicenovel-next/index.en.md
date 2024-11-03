@@ -6,7 +6,7 @@ date: 2024-10-04 21:20:00+0900
 categories:
     - Project
     - Alice Novel
-    - "Progress: Plans"
+    - "Progress: Finished"
 tags:
     - Release schedule
 ---
