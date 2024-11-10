@@ -1,5 +1,5 @@
 ---
-title: 檸法理 - 第1条
+title: "[廃止] 檸法理 - 第1条"
 description: 会話の開示
 slug: rule-001-open-chat
 date: 2024-01-23 22:33:00+0900
@@ -9,6 +9,12 @@ tags:
     - Foreign policy
     - Doctrine
 ---
+
+> ***\[廃止\]***
+> 
+> このルールは2024/11/11をもって廃止しました。理由は、制定以来利用されたことがなく、形骸化しているためです。
+
+> このページは歴史的資料保存を目的として維持しています。現在の状況とは異なるため、原則として参考にはしないでください。
 
 LRA では情報開示制度を推奨しています。
 
@@ -30,3 +36,5 @@ LRA ではこの様な非公開の取引より、公開した取引を推奨し�
 ## 公開
 - [Lemon's Resting Area website](https://lemon73-computing.github.io/docs/rule/001-open-chat) (2024/1/23)
 - [Lemon73 Blog (ここ)](./) (2024/2/29)
+- ([廃止勧告](https://github.com/Lemon73-Computing/blog/issues/29)) (2024/10/6)
+- ([廃止決定](https://github.com/Lemon73-Computing/blog/pull/31)) (2024/11/11)
