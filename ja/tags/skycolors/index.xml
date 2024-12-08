@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SkyColors on Lemon73 Blog</title><link>https://lemon73-computing.github.io/blog/ja/tags/skycolors/</link><description>Recent content in SkyColors on Lemon73 Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 04 Aug 2024 23:46:00 +0900</lastBuildDate><atom:link href="https://lemon73-computing.github.io/blog/ja/tags/skycolors/index.xml" rel="self" type="application/rss+xml"/><item><title>SkyColors 公開予定について</title><link>https://lemon73-computing.github.io/blog/ja/p/20240804-skycolors/</link><pubDate>Sun, 04 Aug 2024 23:46:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240804-skycolors/</guid><description>&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>SkyColors の各バージョンの公開方針についてです。&lt;/p>
+&lt;p>今後、すべてのバージョンの SkyColors を OSS として公開する予定です。&lt;/p>
+&lt;h2 id="経緯">経緯
+&lt;/h2>&lt;p>現在、ほとんどのバージョンの SkyColors は GitHub で管理しておらず、ローカルにしか存在しません。パソコンの移行の観点から、今までに作成したコードを GitHub で管理したいと思っています。そこで、ちょうどよい機会なので SkyColors のデータを OSS として公開したいと考えました。準備などもあるので、少し時間がかかるかと思いますが、しばらくお待ちください。&lt;/p>
+&lt;h2 id="時期">時期
+&lt;/h2>&lt;p>予定時期は、2024年3月計画の終了頃である&lt;strong>2025年3月後半&lt;/strong>または&lt;strong>同年5月頃&lt;/strong>とします。&lt;/p>
+&lt;h2 id="現在の管理状況">現在の管理状況
+&lt;/h2>&lt;ul>
+&lt;li>Flomia
+&lt;ul>
+&lt;li>(GitHub 非公開設定)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>n-cs (.NET/Console/C#)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>n-vb (.NET/Console/Visual Basic)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>n-w-cs (.NET/Windows Form/C#)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>n-b-cs (.NET/Blazor/C#)
+&lt;ul>
+&lt;li>v1.0-v2.0 (&lt;a class="link" href="https://github.com/Lemon73-Computing/SkyColors_n-b-cs" target="_blank" rel="noopener"
+>GitHub&lt;/a>)&lt;/li>
+&lt;li>v2.9.x系 (&lt;a class="link" href="https://gitlab.com/lemon73/skycolors/" target="_blank" rel="noopener"
+>GitLab&lt;/a> / &lt;a class="link" href="https://github.com/Lemon73-Computing/skycolors" target="_blank" rel="noopener"
+>GitHub クローン&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>j (Java)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>wpf-cs (.NET/WPF/C#)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/8/5)&lt;/li>
+&lt;/ul></description></item></channel></rss>

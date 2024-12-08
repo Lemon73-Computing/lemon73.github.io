@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basic Research on Lemon73 Blog</title><link>https://lemon73-computing.github.io/blog/ja/tags/basic-research/</link><description>Recent content in Basic Research on Lemon73 Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 25 Aug 2024 23:06:00 +0900</lastBuildDate><atom:link href="https://lemon73-computing.github.io/blog/ja/tags/basic-research/index.xml" rel="self" type="application/rss+xml"/><item><title>第1回 Lemon73 の知名度 調べてみた!</title><link>https://lemon73-computing.github.io/blog/ja/p/20240825-research-me/</link><pubDate>Sun, 25 Aug 2024 23:06:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240825-research-me/</guid><description>&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>AI に Lemon73 のことを聞き、どの程度知っているのかを調査します。&lt;/p>
+&lt;h3 id="chatgpt-4o-mini">ChatGPT 4o mini
+&lt;/h3>&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+こんばんは&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>ChatGPT&lt;/em>&lt;br>
+こんばんは！どうしたの？&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+Lemon73 について知ってる?&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>ChatGPT&lt;/em>&lt;br>
+Lemon73 について知っている限りでは、これは日本のYouTuberで、ゲームプレイの実況やレビューを行っているチャンネルです。ゲームの攻略情報や面白いプレイが特徴で、多くのファンに支持されています。もし他に詳しく知りたいことがあれば教えてください！&lt;/p>
+&lt;/blockquote>
+&lt;p>YouTuber であるということは正しいですが、ゲーム実況はレビューはやっていません。(現状は)&lt;/p>
+&lt;p>おそらく違う人を指していますね。&lt;/p>
+&lt;p>ここで、誘導を加えましょう。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+開発者の Lemon73 について知っていますか&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>ChatGPT&lt;/em>&lt;br>
+ああ、Lemon73 という名前で知られる開発者については、具体的な情報があまり多くはありません。もしゲーム開発やソフトウェア開発に関して特定の質問があれば、できる限りお手伝いします。どんな情報を探しているのですか？&lt;/p>
+&lt;/blockquote>
+&lt;p>顕著に活動している GitHub のリンクを提供します。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+&lt;a class="link" href="https://github.com/Lemon73-Computing" target="_blank" rel="noopener"
+>https://github.com/Lemon73-Computing&lt;/a> はどのような開発を行っていますか?&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>ChatGPT&lt;/em>&lt;br>
+Lemon73-Computing の GitHub リポジトリには、さまざまなソフトウェアやプロジェクトが公開されています。具体的には、以下のような開発が行われています：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>ツールとライブラリ&lt;/strong>: ソフトウェア開発やデータ処理に役立つツールやライブラリが含まれていることが多いです。&lt;/li>
+&lt;li>&lt;strong>ゲーム関連&lt;/strong>: ゲームのエンジンやツールキット、ゲームプレイに関連するプロジェクトも見られます。&lt;/li>
+&lt;li>&lt;strong>サンプルコード&lt;/strong>: プログラミングの学習や技術的なデモを提供するためのサンプルコードもあります。&lt;/li>
+&lt;/ol>
+&lt;p>特定のプロジェクトやリポジトリについて詳しく知りたい場合は、GitHub のページで直接確認するのが良いでしょう。どのプロジェクトが気になりますか？&lt;/p>
+&lt;/blockquote>
+&lt;p>&amp;ldquo;ツールとライブラリ&amp;quot;についてはどのレポジトリを指しているのでしょうか?&lt;/p>
+&lt;p>&amp;ldquo;ゲーム関連&amp;quot;は、Alice Project についてでしょう。&lt;/p>
+&lt;p>&amp;ldquo;サンプルコード&amp;quot;は、Alice Project の &lt;code>.anov&lt;/code> 構文のサンプルのことでしょうか?&lt;/p>
+&lt;p>最後に、Lemon73 の直近の開発である Alice Novel について聞いてみましょう。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+Alice Novel とはなんですか?&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>ChatGPT&lt;/em>&lt;br>
+「Alice Novel」は、Lemon73-Computing によって開発されたプロジェクトで、主にテキストベースのゲームやインタラクティブなストーリーテリングに関連しています。このプロジェクトの目的は、ユーザーが物語に参加し、選択肢に基づいてストーリーが進行するようなゲームを作成することです。&lt;/p>
+&lt;p>具体的には、次のような機能が含まれていることが多いです：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>テキストベースのストーリーテリング&lt;/strong>: ユーザーの選択によって物語が進行し、異なる結末に到達することができます。&lt;/li>
+&lt;li>&lt;strong>簡単なスクリプト言語&lt;/strong>: ストーリーのフローやイベントを制御するためのスクリプトを記述する機能。&lt;/li>
+&lt;li>&lt;strong>カスタマイズ可能なシステム&lt;/strong>: ユーザーが自分の物語を作成しやすくするためのツールやテンプレート。&lt;/li>
+&lt;/ul>
+&lt;p>このプロジェクトは、ストーリーテリングやゲームデザインに興味がある開発者やクリエイターにとって、面白いリソースとなるでしょう。具体的な詳細や機能については、GitHub のリポジトリで直接確認するのが良いと思います。&lt;/p>
+&lt;/blockquote>
+&lt;p>なんか、全体的にちょっとずつ違いますね。&lt;/p>
+&lt;p>とりあえず、これで以上とします。&lt;/p>
+&lt;h3 id="chatgpt-4o">ChatGPT 4o
+&lt;/h3>&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+(GitHub) Lemon73 の Alice Novel とは何&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>ChatGPT&lt;/em>&lt;br>
+Lemon73のAlice Novelは、GitHub上で公開されているプロジェクトの一つで、Lemon73というユーザーが開発している、Aliceという名前のノベルゲームエンジンまたは関連ツールである可能性があります。このようなプロジェクトは、ビジュアルノベル（アドベンチャーゲーム）を作成するためのソフトウェアやライブラリを提供するものが多いです。&lt;/p>
+&lt;p>具体的な内容については、GitHubのリポジトリを直接確認するのが良いでしょう。通常、リポジトリにはREADMEファイルがあり、プロジェクトの目的や使用方法が詳しく説明されています。&lt;/p>
+&lt;p>もし、そのリポジトリについてさらに詳しい情報が必要でしたら、GitHubのリンクを教えていただければ、詳細を確認できます。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+&lt;a class="link" href="https://github.com/AliceNovel" target="_blank" rel="noopener"
+>https://github.com/AliceNovel&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>ChatGPT&lt;/em>&lt;br>
+The Alice Novel project by Lemon73 is a simple game engine designed for creating visual novels. The project includes several related repositories, such as AliceConsole for CLI interaction, AquaNotes for browser-based systems, and others like sample games and plugins. The engine is primarily coded in C# and is aimed at helping developers build visual novel games more easily.&lt;/p>
+&lt;p>For more detailed information, you can visit their GitHub page &lt;a class="link" href="https://github.com/AliceNovel" target="_blank" rel="noopener"
+>here&lt;/a>.&lt;/p>
+&lt;/blockquote>
+&lt;p>概ね正しいですね。&lt;/p>
+&lt;h3 id="bing-copilot">Bing Copilot
+&lt;/h3>&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+Lemon73 についてご存知でしょうか。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Copilot&lt;/em>&lt;br>
+はい、Lemon73は主にQiitaで活動しているユーザーのようです。彼はLinuxやコマンドラインに関する記事を投稿しており、特に初心者向けの内容が多いです。例えば、便利なコマンドやターミナルの使い方についての解説を行っています。&lt;/p>
+&lt;p>何か特定の情報をお探しですか？それとも、Lemon73の投稿についてもっと知りたいですか？&lt;/p>
+&lt;p>詳細情報 &lt;a class="link" href="https://qiita.com/Lemon73/items/5fffe3e643dc01dd610a" target="_blank" rel="noopener"
+>1&lt;/a> &lt;a class="link" href="https://qiita.com/Lemon73/items/05603fdabc26d65035c6" target="_blank" rel="noopener"
+>2&lt;/a> &lt;a class="link" href="https://qiita.com/Lemon73" target="_blank" rel="noopener"
+>3&lt;/a> &lt;a class="link" href="https://lemon73-computing.github.io" target="_blank" rel="noopener"
+>4&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>Qiita の活動が発見されるのは意外ですね。あと、ウェブサイトが発見できているのは素直にすごいと思います。(Google で Lemon73 について調べても、ウェブサイトはあんまり出てこないので…)&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+Lemon73のQiitaプロフィールを教えてください。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Copilot&lt;/em>&lt;br>
+Lemon73のQiitaプロフィールによると、彼は日本在住で、主にC#とKDEを愛する開発者です。彼の投稿はLinux、メモ、CLI、C#、.NETに関するものが多く、特に初心者向けの内容が多いです。また、42件の貢献と10件の記事を投稿しており、フォロワーも5人います。&lt;/p>
+&lt;p>さらに詳しい情報が必要ですか？それとも、特定の記事について知りたいですか？&lt;/p>
+&lt;p>詳細情報 &lt;a class="link" href="https://qiita.com/Lemon73" target="_blank" rel="noopener"
+>1&lt;/a> &lt;a class="link" href="https://qiita.com/Lemon73/items/46a7158d38520a167449" target="_blank" rel="noopener"
+>2&lt;/a> &lt;a class="link" href="https://qiita.com/Lemon73/items/b727c7dff40ed5df0439" target="_blank" rel="noopener"
+>3&lt;/a> &lt;a class="link" href="https://lemon73-computing.github.io" target="_blank" rel="noopener"
+>4&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>Qiita だけの話になっているので、他の活動について聞いてみます。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+Lemon73 の gitHub での活動について教えてください。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Copilot&lt;/em>&lt;br>
+Lemon73はGitHubでいくつかのプロジェクトに取り組んでいます。主な活動としては、以下のようなプロジェクトがあります：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>LEC-MainSite&lt;/strong>: 個人サークルLECのメインサイトのコードを公開しています。&lt;/li>
+&lt;li>&lt;strong>Himeno-Flex&lt;/strong>: 姫野ベンチマークを組み込んだGUIのベンチマークソフトウェアです。主にC#と.NET MAUIを使用して開発されています。&lt;/li>
+&lt;li>&lt;strong>skycolors&lt;/strong>: C#やBlazorを使用したプロジェクトで、UI部分にはBootstrapが使用されています。
+これらのプロジェクトを通じて、Lemon73は様々な技術を駆使して開発を行っています。特にC#と.NETに関する知識が豊富です。&lt;/li>
+&lt;/ol>
+&lt;p>他に知りたいことがあれば教えてください！&lt;/p>
+&lt;p>詳細情報 &lt;a class="link" href="https://github.com/Lemon73-Computing/" target="_blank" rel="noopener"
+>1&lt;/a> &lt;a class="link" href="https://github.com/Lemon73-Computing/Himeno-Flex/" target="_blank" rel="noopener"
+>2&lt;/a> &lt;a class="link" href="https://github.com/Lemon73-Computing/skycolors" target="_blank" rel="noopener"
+>3&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>情報は若干古いですが、比較的正しい情報ですね。&lt;/p>
+&lt;p>ChatGPT とは違い、リンクを与えなくてもかなりわかるようです。&lt;/p>
+&lt;p>では最後に、Alice Novel について聞いてみます。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+Lemon73 の Alice Novel とはなんですか。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Copilot&lt;/em>&lt;br>
+Alice Novelは、Lemon73によって開発されている文章系ゲーム用のエンジンです。このエンジンは、MAUI（.NET Multi-platform App UI）を利用しており、C#とXAMLで構築されています。Alice Novelを使用することで、テキストベースのゲームのUI部分を効率的に構築することができます。&lt;/p>
+&lt;p>現在、Alice Novelは開発中で、バージョン1.0.0に向けて進行中です。このエンジンを使うことで、ゲーム開発者はUIの構築にかかる手間を減らし、より簡単にゲームを作成することができます。&lt;/p>
+&lt;p>詳細情報 &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel" target="_blank" rel="noopener"
+>1&lt;/a> &lt;a class="link" href="https://github.com/AliceNovel/Docs" target="_blank" rel="noopener"
+>2&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>かなり正確ですね。&lt;/p>
+&lt;p>以上、Bing Copilot でした。&lt;/p>
+&lt;h3 id="gemini">Gemini
+&lt;/h3>&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+こんばんは。Lemon73 のことをご存知ですか?&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Gemini&lt;/em>&lt;br>
+&lt;strong>Lemon73について詳しく教えてください&lt;/strong>
+Lemon73について、もっと知りたいことがたくさんありますね。&lt;/p>
+&lt;p>&lt;strong>Lemon73は、どんなものですか？&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>人&lt;/strong>ですか？どんなことをしている人ですか？&lt;/li>
+&lt;li>&lt;strong>キャラクター&lt;/strong>ですか？どんな作品に出てきますか？&lt;/li>
+&lt;li>&lt;strong>お店&lt;/strong>ですか？どんなものを売っていますか？&lt;/li>
+&lt;li>&lt;strong>それとも、全く違うもの&lt;/strong>ですか？
+&lt;strong>Lemon73について、どんなことを知りたいですか？&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>例えば、&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Lemon73についてもっと詳しく知りたい&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Lemon73の〇〇を知りたい&lt;/strong>（〇〇の部分に具体的なことを入れてください）
+など、どんな質問でも大丈夫です。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Lemon73について、あなたが知っていることを教えていただけると、もっと詳しくお答えできます。&lt;/strong>&lt;/p>
+&lt;p>例えば、&lt;/p>
+&lt;ul>
+&lt;li>Lemon73という名前をどこで聞いたか&lt;/li>
+&lt;li>Lemon73について、どんなイメージを持っているか
+などを教えていただけると嬉しいです。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>あなたの質問に、できる限り答えたいと思っています。&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>遠慮なく、何でも聞いてください。&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;p>初めて Gemini を使ったのですが、なんか返答方法がうざいですね。&lt;/p>
+&lt;p>仕方ないので、GitHub の情報を提供します。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+&lt;a class="link" href="https://github.com/Lemon73-Computing" target="_blank" rel="noopener"
+>https://github.com/Lemon73-Computing&lt;/a> についてどのような人か教えてください。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Gemini&lt;/em>&lt;br>
+&lt;strong>Lemon73-Computingについて&lt;/strong>
+GitHubユーザーLemon73-Computingは、日本を拠点に活動しています。彼らは、Japan KDE User Groupを含むいくつかの組織のメンバーです。彼らは、ノベルゲーム用のシンプルなゲームエンジンであるAliceNovelなど、いくつかのリポジトリを作成しました。彼らはソーシャルメディアでも積極的に活動しており、MastodonまたはMisskeyを通じて連絡を取ることができます。&lt;/p>
+&lt;p>&lt;strong>Lemon73-Computingの詳細&lt;/strong>
+GitHub: &lt;a class="link" href="https://github.com/zhangzhics/CITS5503_Sem2" target="_blank" rel="noopener"
+>https://github.com/zhangzhics/CITS5503_Sem2&lt;/a>
+Mastodon: &lt;a class="link" href="https://twitter.com/damiansian?lang=en" target="_blank" rel="noopener"
+>https://twitter.com/damiansian?lang=en&lt;/a>
+Misskey: &lt;a class="link" href="https://misskey.io/@palauni1224" target="_blank" rel="noopener"
+>https://misskey.io/@palauni1224&lt;/a>
+Lemon73-Computingが作成したリポジトリ
+AliceNovel [無効な URL を削除しました]: ノベルゲーム用のシンプルなゲームエンジン
+Lemon73-Computingが所属する組織
+Japan KDE User Group: &lt;a class="link" href="https://www.reddit.com/r/kde/comments/32p9sb/japanese_input_on_plasma_5/" target="_blank" rel="noopener"
+>https://www.reddit.com/r/kde/comments/32p9sb/japanese_input_on_plasma_5/&lt;/a>
+その他の情報
+Lemon73-Computingについて、もっと知りたいことがあれば、遠慮なく聞いてください。&lt;/p>
+&lt;/blockquote>
+&lt;p>活動内容に関しては概ね正しいのですが、リンクは何もかも違いますね。&lt;/p>
+&lt;p>Alice Novel について聞いてみましょう。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+Alice Novel について詳細を教えてください。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Gemini&lt;/em>&lt;br>
+&lt;strong>Alice Novel について&lt;/strong>
+以前の記事によると、Alice Novel は C# で書かれたシンプルなノベルゲームエンジンです。 GitHub で公開されており、ダウンロードして使ってみることもできます。&lt;/p>
+&lt;p>&lt;strong>Alice Novel の特徴&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>シンプルで使いやすい&lt;/li>
+&lt;li>C# で書かれている&lt;/li>
+&lt;li>GitHub で公開されている&lt;/li>
+&lt;li>ダウンロードして使ってみることもできる&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Alice Novel の入手方法&lt;/strong>
+Alice Novel は、GitHub からダウンロードできます。&lt;/p>
+&lt;p>AliceNovel GitHub リポジトリ [無効な URL を削除しました]&lt;/p>
+&lt;p>&lt;strong>Alice Novel の使い方&lt;/strong>
+Alice Novel の使い方については、GitHub リポジトリにある README を参照してください。&lt;/p>
+&lt;p>AliceNovel README [無効な URL を削除しました]&lt;/p>
+&lt;p>Alice Novel について、もっと知りたいことがあれば、遠慮なく聞いてください。&lt;/p>
+&lt;/blockquote>
+&lt;p>これに関しては概ね問題なさそうです。&lt;/p>
+&lt;p>(ちなみに、Himeno Flex について聞いてみましたが、全く情報を知らないようでした。(リンクを提示しても、アクセス不可能らしい))&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+&lt;a class="link" href="https://github.com/AliceNovel/AliceConsole" target="_blank" rel="noopener"
+>https://github.com/AliceNovel/AliceConsole&lt;/a> について説明してください。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Gemini&lt;/em>&lt;br>
+&lt;strong>AliceNovel/AliceConsole について&lt;/strong>
+このリポジトリは、Alice Novel for CLIという、コマンドラインインターフェース用のAlice Novelです。 ライセンスはMITライセンスです。 開発者はLemon73-Computingです。 リポジトリには、5つのIssueと0個のPull Requestがあります。 最新のリリースは、v0.1.2で、2024年4月9日にリリースされました。&lt;/p>
+&lt;p>&lt;strong>リポジトリの詳細&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>ライセンス: MITライセンス&lt;/li>
+&lt;li>開発者: Lemon73-Computing&lt;/li>
+&lt;li>Issue: 5件&lt;/li>
+&lt;li>Pull Request: 0件&lt;/li>
+&lt;li>最新リリース: v0.1.2 (2024年4月9日)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>リポジトリのリンク&lt;/strong>
+&lt;a class="link" href="https://github.com/AliceNovel/AliceConsole" target="_blank" rel="noopener"
+>AliceNovel/AliceConsole&lt;/a>
+AliceNovel/AliceConsole について、もっと知りたいことがあれば、遠慮なく聞いてください。&lt;/p>
+&lt;/blockquote>
+&lt;p>最後に。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Lemon73&lt;/em>&lt;br>
+Lemon73 の開発以外の活動について教えてください。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;em>Gemini&lt;/em>&lt;br>
+申し訳ありませんが、Lemon73-Computingの開発以外の活動に関する情報は見つかりませんでした。&lt;/p>
+&lt;p>もし、Lemon73-Computingの活動に関する情報をお持ちでしたら、教えていただけますか？&lt;/p>
+&lt;/blockquote>
+&lt;p>以上。&lt;/p>
+&lt;h3 id="google-検索">Google 検索
+&lt;/h3>&lt;p>ちなみに、Google 検索では、どのように出るのでしょうか。&lt;/p>
+&lt;blockquote>
+&lt;p>Google &lt;code>lemon73&lt;/code>&lt;/p>
+&lt;ol>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/channel/UCNiEtjncyYOxSsZ-6BFCNUA" target="_blank" rel="noopener"
+>YouTube&lt;/a>&lt;/li>
+&lt;li>メルカリ (私ではない)&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/Lemon73-Computing" target="_blank" rel="noopener"
+>GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://lemon73-computing.github.io/social/" target="_blank" rel="noopener"
+>レモンの休息所 (ウェブサイト) - プロフィールページ&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://qiita.com/Lemon73" target="_blank" rel="noopener"
+>Qiita&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://lemon73-computing.github.io/blog/ja/" target="_blank" rel="noopener"
+>Lemon73 Blog&lt;/a>&lt;/li>
+&lt;li>クラウドワークス (私ではない)&lt;/li>
+&lt;li>&lt;a class="link" href="https://gitlab.com/lemon73/lemon73.gitlab.io" target="_blank" rel="noopener"
+>GitLab - LEC Website&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://zenn.dev/lemon73/scraps/421ae9ce9f2241" target="_blank" rel="noopener"
+>Zenn - Raspberry Pi サーバー (スクラップ)&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://invent.kde.org/futurelemon/jp-kde-org" target="_blank" rel="noopener"
+>KDE Invent - KDE Japan Website&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;p>比較的、上位の方に出てきていますね。これは昔から大きく進歩していると感じます。&lt;/p>
+&lt;h3 id="総評">総評
+&lt;/h3>&lt;p>Gemini よりも、GPT 系のほうが使いやすいと感じました。精度というよりは、適当な文を送っても GPT は答えてくれるというのが良いところですね。(あれ?趣旨変わってる…?もともとエゴサーチのために初めたのに、AI の比較になってる…?)&lt;/p>
+&lt;p>Claude とか他にも AI はあるけど、面倒なのでやってません。&lt;/p>
+&lt;p>本題である、私の知名度については、まだあまり活動が知られていないという感じでした。これは、ウェブサイトの SEO が低いことや、SNS アカウントのフォロワー数が少ないことが原因であると考えます。後者に関しては、ひとまずおいておきますが、前者に関してはウェブサイトを刷新する予定があるので、その際に SEO を意識したものにしたいと考えています。そもそもの活動も、これから拡大していくつもりなので、しばらくお待ちください!!&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/8/26)&lt;/li>
+&lt;/ul></description></item></channel></rss>

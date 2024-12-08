@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project on Lemon73 Blog</title><link>https://lemon73-computing.github.io/blog/ja/categories/project/</link><description>Recent content in Project on Lemon73 Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 01 Nov 2024 23:29:00 +0900</lastBuildDate><atom:link href="https://lemon73-computing.github.io/blog/ja/categories/project/index.xml" rel="self" type="application/rss+xml"/><item><title>24年11月計画に関して</title><link>https://lemon73-computing.github.io/blog/ja/p/20241101-next/</link><pubDate>Fri, 01 Nov 2024 23:29:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20241101-next/</guid><description>&lt;p>11月計画に関しては予定は11/1-11/3としていましたが、連休のため拡大し、11/1-11/4とします。&lt;/p>
+&lt;p>主には、Alice Novel のリリースや開発予定、その他の Alice Project 及び Anov 構文の開発関係、Crystal Rabbit 計画 (Crystal a Live)、Alienor Protocol、.NET MAUI の Linux 対応、KDE 翻訳、リアルの活動などの内容を盛り込む予定です。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/11/1)&lt;/li>
+&lt;/ul></description></item><item><title>リリース予定: Alice Novel v0.9.3</title><link>https://lemon73-computing.github.io/blog/ja/p/20241004-alicenovel-next/</link><pubDate>Sat, 05 Oct 2024 17:36:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20241004-alicenovel-next/</guid><description>&lt;p>Alice Novel の次期バージョン v0.9.3 のリリースを検討しています。このリリースには CI/CD の修正、ディレクトリ構成の変更、そして依存関係の更新が含まれています。&lt;/p>
+&lt;h3 id="現在">現在
+&lt;/h3>&lt;p>現在、すでにいくつかの PR がマージされており、それらは次期リリースに組み込む予定です。以下をご覧ください。&lt;/p>
+&lt;ul>
+&lt;li>docs (license): change the license (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/72" target="_blank" rel="noopener"
+>#72&lt;/a>)&lt;/li>
+&lt;li>chore (dependencies): bump dependencies (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/73" target="_blank" rel="noopener"
+>#73&lt;/a>)&lt;/li>
+&lt;li>chore (dependencies): bump maui version (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/74" target="_blank" rel="noopener"
+>#74&lt;/a>)&lt;/li>
+&lt;li>chore (ci/cd): recreate the android ci/cd on azure devops (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/77" target="_blank" rel="noopener"
+>#77&lt;/a>)&lt;/li>
+&lt;li>build (deps): bump packages (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/78" target="_blank" rel="noopener"
+>#78&lt;/a>)&lt;/li>
+&lt;li>chore (ci/cd): bump actions/upload-artifact from v3 to v4 (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/46" target="_blank" rel="noopener"
+>#46&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h3 id="予定">予定
+&lt;/h3>&lt;p>次期リリースまでに更にいくつかの PR を追加する予定です。&lt;/p>
+&lt;ul>
+&lt;li>chore (scripts): move scripts files and update documentations (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/76" target="_blank" rel="noopener"
+>#76&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>また、アプリケーションはセーブシステムに問題を抱えています。新しいセーブシステムに置き換えることでそのバグを修正する予定です。(関連: &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/67" target="_blank" rel="noopener"
+>#67&lt;/a>)&lt;/p>
+&lt;p>加えて、&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/69" target="_blank" rel="noopener"
+>#69&lt;/a> (&lt;code>.anproj&lt;/code> ファイルが読み込まれるまでセーブボタンを隠す) や &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/10" target="_blank" rel="noopener"
+>#10&lt;/a> (英語対応) は簡単に対応可能であると考えています。&lt;/p>
+&lt;p>結論としては、&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/76" target="_blank" rel="noopener"
+>#76&lt;/a>, &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/67" target="_blank" rel="noopener"
+>#67&lt;/a> (Android の &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/61" target="_blank" rel="noopener"
+>#61&lt;/a> と Windows 向けの &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/47" target="_blank" rel="noopener"
+>#47&lt;/a> を含む), &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/69" target="_blank" rel="noopener"
+>#69&lt;/a>, &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/10" target="_blank" rel="noopener"
+>#10&lt;/a> そして、いくつかのリファクタリングを v0.9.3 のリリースまでに行うことを視野に入れています。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (EN: 2024/10/4, JP: 2024/10/5)&lt;/li>
+&lt;/ul></description></item><item><title>SkyColors 公開予定について</title><link>https://lemon73-computing.github.io/blog/ja/p/20240804-skycolors/</link><pubDate>Sun, 04 Aug 2024 23:46:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240804-skycolors/</guid><description>&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>SkyColors の各バージョンの公開方針についてです。&lt;/p>
+&lt;p>今後、すべてのバージョンの SkyColors を OSS として公開する予定です。&lt;/p>
+&lt;h2 id="経緯">経緯
+&lt;/h2>&lt;p>現在、ほとんどのバージョンの SkyColors は GitHub で管理しておらず、ローカルにしか存在しません。パソコンの移行の観点から、今までに作成したコードを GitHub で管理したいと思っています。そこで、ちょうどよい機会なので SkyColors のデータを OSS として公開したいと考えました。準備などもあるので、少し時間がかかるかと思いますが、しばらくお待ちください。&lt;/p>
+&lt;h2 id="時期">時期
+&lt;/h2>&lt;p>予定時期は、2024年3月計画の終了頃である&lt;strong>2025年3月後半&lt;/strong>または&lt;strong>同年5月頃&lt;/strong>とします。&lt;/p>
+&lt;h2 id="現在の管理状況">現在の管理状況
+&lt;/h2>&lt;ul>
+&lt;li>Flomia
+&lt;ul>
+&lt;li>(GitHub 非公開設定)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>n-cs (.NET/Console/C#)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>n-vb (.NET/Console/Visual Basic)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>n-w-cs (.NET/Windows Form/C#)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>n-b-cs (.NET/Blazor/C#)
+&lt;ul>
+&lt;li>v1.0-v2.0 (&lt;a class="link" href="https://github.com/Lemon73-Computing/SkyColors_n-b-cs" target="_blank" rel="noopener"
+>GitHub&lt;/a>)&lt;/li>
+&lt;li>v2.9.x系 (&lt;a class="link" href="https://gitlab.com/lemon73/skycolors/" target="_blank" rel="noopener"
+>GitLab&lt;/a> / &lt;a class="link" href="https://github.com/Lemon73-Computing/skycolors" target="_blank" rel="noopener"
+>GitHub クローン&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>j (Java)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>wpf-cs (.NET/WPF/C#)
+&lt;ul>
+&lt;li>(ローカル管理)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/8/5)&lt;/li>
+&lt;/ul></description></item><item><title>2024年休止計画</title><link>https://lemon73-computing.github.io/blog/ja/p/20240407-rest-time/</link><pubDate>Sun, 07 Apr 2024 12:30:53 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240407-rest-time/</guid><description>&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>長期の活動休止に関しての説明。&lt;/p>
+&lt;h2 id="経緯">経緯
+&lt;/h2>&lt;h3 id="期間">期間
+&lt;/h3>&lt;p>2024/4/8 ~ 2025/5/1 頃&lt;/p>
+&lt;p>開始は、2024年3月計画の終了と同時です。&lt;/p>
+&lt;p>終了時期に関しては目安であり、この期間を越えることは予想していません。
+この休止期間は短くなる可能性が高いですが、どの程度短くなるかはまったく予想がついていません。&lt;/p>
+&lt;h3 id="計画">計画
+&lt;/h3>&lt;p>計画開始から1ヶ月ほどは活動休止に向けて作業を進めます。
+とは言っても、もうするべきことはほとんど終わっているのですが。&lt;/p>
+&lt;p>実は、この計画中まったく活動をしないというわけではありません。
+計画開始してまもなくはわずかながら活動をする可能性があります。
+その活動は徐々に減らしていく指針となっています。&lt;/p>
+&lt;h3 id="後述">後述
+&lt;/h3>&lt;p>この資料は、計画開始日に間に合わせるため急遽作成したものです。
+そのため、説明不足な点が多くあります。&lt;del>後ほど追加の説明を行う文章の投稿を予定していますので、しばらくお待ちください。&lt;/del>&lt;/p>
+&lt;blockquote>
+&lt;p>追記: &lt;br />
+当初の予定では、今までの活動の振り返りと総評、活動休止の経緯などについて詳細な記載を行う予定でした。しかし記事の作成をしている時点でかなりの長文になり、全文を公開するのは適切ではない、また作成にかなりの時間を要し、この作業を行うメリットが低いと考えました。そこでここでは、締めの挨拶のみ抜粋し、追加しました。&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="挨拶">挨拶
+&lt;/h2>&lt;p>2022年3月に活動を開始し、そこから今日まで2年以上活動を続けられて嬉しく思います。
+分野は 3DCG から始まり、ドット絵、イラスト、作曲、プログラム、ゲーム作成、資料作成、翻訳など多岐に渡る分野にて活動を続けて来ました。
+このサークルでは先述の通りやりたいことをやるという目標を元に進めてきており、その願いは達成出来ました。
+また、作曲や翻訳などの専門分野外で、やったことがなかったことにもいくつも挑戦し、ある程度の成果が収められたので素晴らしい成果だと感じます。&lt;/p>
+&lt;p>休止を開けて私が活動を再開するかどうかはまったくの不明です。しかし、この資料や過去の自分が作ってきた作品などを見て、この界隈に戻ることを決意するのではないでしょうか。未来の私はその選択をすると思います。&lt;/p>
+&lt;p>最後に、私の活動を見守ってくださった方々やご支援してくださった皆様に特別の感謝を!!&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/4/7)&lt;/li>
+&lt;/ul></description></item><item><title>2024年3月計画 最終報告</title><link>https://lemon73-computing.github.io/blog/ja/p/20240407-spring/</link><pubDate>Sun, 07 Apr 2024 01:31:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240407-spring/</guid><description>&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>2024年3月計画の最終結果の報告資料です。&lt;/p>
+&lt;h2 id="評価">評価
+&lt;/h2>&lt;p>評価は以下の5段階評価とします。&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Excellent&lt;/strong> - 大変良い&lt;/li>
+&lt;li>&lt;strong>Very Good&lt;/strong> - 良い&lt;/li>
+&lt;li>&lt;strong>Good&lt;/strong> - やや良い&lt;/li>
+&lt;li>&lt;strong>Average&lt;/strong> - 普通&lt;/li>
+&lt;li>&lt;strong>Poor&lt;/strong> - 悪い&lt;/li>
+&lt;/ol>
+&lt;h2 id="進捗">進捗
+&lt;/h2>&lt;p>全体講評: &lt;strong>Very Good&lt;/strong>&lt;/p>
+&lt;p>この計画は&lt;strong>成功した&lt;/strong>と言ってよいと思います。&lt;/p>
+&lt;h3 id="資料作成">資料作成
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>ブログ
+&lt;ul>
+&lt;li>Hugo で設立&lt;/li>
+&lt;li>kde タグを &lt;a class="link" href="https://planet.kde.org" target="_blank" rel="noopener"
+>https://planet.kde.org&lt;/a> に接続 (Invent KDE にて)&lt;/li>
+&lt;li>3月計画(この資料)の発表&lt;/li>
+&lt;li>3月計画の中間発表(進捗公表)&lt;/li>
+&lt;li>3月計画の結果公表&lt;/li>
+&lt;li>今までの方針や計画の資料を移管&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Very Good&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>中間発表から特に変化はありません。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>KDE
+&lt;ul>
+&lt;li>Zenn 資料作成 (徐々に進めます。時間がかかるため、計画期間中に資料の完成を目指しません)&lt;/li>
+&lt;li>翻訳 (~2/28(KDE Megarelease 6 まで))&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Good&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>こちらも中間発表から特に変化はありません。&lt;/p>
+&lt;h3 id="ソフトウェア関係">ソフトウェア関係
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>Alice Project
+&lt;ul>
+&lt;li>v0.9.0 GA Release&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Excellent&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>v0.9.0 最後の issue が終了し、 GA としてリリースされました。
+また、 v0.9.0 SR (サービスリリース)として、若干の機能追加と調整が行われた v0.9.1 がリリースしました。&lt;/p>
+&lt;p>これからは開発をいったん休止し、休止後は更なる v0.9.0 SR (サービスリリース)の開発及び v1.0.0 への開発、仕様決定を進めていく予定です。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>A____ (仕事関係/秘匿)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Excellent&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>無事終了しました。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>E______L___ (仕事関係/秘匿)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Very Good&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>中間発表から1回の発表があり、開発(新システムへの移管)自体もかなり進んだのでこの評価とします。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>s____ s___ s_____ (仕事関係/秘匿)
+&lt;ul>
+&lt;li>______側&lt;/li>
+&lt;li>____側&lt;/li>
+&lt;li>交渉&lt;/li>
+&lt;li>開発方針について話し合い&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>評価: &lt;strong>Average&lt;/strong>&lt;/p>
+&lt;p>共同開発者が____側の開発を進めてくれているので、今後は自分も開発により参加していく予定です。&lt;/p>
+&lt;p>______側の開発は計画開始以前にほとんど完成していたため、あとは微調整をするだけです。&lt;/p>
+&lt;h3 id="その他">その他
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>パソコン整備
+&lt;ul>
+&lt;li>開発時間記録システムの変更&lt;br />
+(今までは Excel を使っていましたが、 Google Forms + Google Sheets に移管予定)&lt;/li>
+&lt;li>旧パソコンから新パソコンに情報を移管&lt;/li>
+&lt;li>旧パソコンで使っていたソフトウェアの記録を行う (必須ではない)&lt;/li>
+&lt;li>スマホにアカウントを移す&lt;/li>
+&lt;li>集中のために一部インターネット切断&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>評価: &lt;strong>Average&lt;/strong>&lt;/p>
+&lt;p>パソコン移管がほとんど進んでいません。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>部屋の整理
+&lt;ul>
+&lt;li>机の周辺整理&lt;/li>
+&lt;li>GSaCB 旧資料群のデジタル化 (必須ではない)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>評価: &lt;strong>Good&lt;/strong>&lt;/p>
+&lt;p>机周辺はかなり整理できたので、この評価とします。&lt;br />
+まだ使っていない資料がたくさんあるので、これらも捨てることが出来そうですが…&lt;br />
+また今度でいいでしょう。&lt;/p>
+&lt;p>なお、旧資料のデジタル化はまったく進んでいません。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/4/7)&lt;/li>
+&lt;/ul></description></item><item><title>2024年茶屋計画</title><link>https://lemon73-computing.github.io/blog/ja/p/20240319-cafe-project/</link><pubDate>Tue, 19 Mar 2024 20:10:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240319-cafe-project/</guid><description>&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>グループ名の刷新や統合に関する資料。&lt;/p>
+&lt;h2 id="組織図変更">組織図変更
+&lt;/h2>&lt;h3 id="旧体制">旧体制
+&lt;/h3>&lt;ul>
+&lt;li>LEC
+&lt;ul>
+&lt;li>KISS
+&lt;ul>
+&lt;li>SGaCB (旧: 尾花と桜)
+&lt;ul>
+&lt;li>A-RPG&lt;/li>
+&lt;li>Akizuki Forest&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>COI
+&lt;ul>
+&lt;li>月面のレートピシ (月通信傍受計画)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>NEO
+&lt;ul>
+&lt;li>SkyColors&lt;/li>
+&lt;li>Himeno Next&lt;/li>
+&lt;li>Alice Project&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>LFA (旧: PINK)
+&lt;ul>
+&lt;li>レモン研究所 (レモ研)&lt;/li>
+&lt;li>生物学研究&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="新体制">新体制
+&lt;/h3>&lt;ul>
+&lt;li>レモンの休息所
+&lt;ul>
+&lt;li>Ivy Cafeteria
+&lt;ul>
+&lt;li>秋月と森&lt;/li>
+&lt;li>世界の終焉の前に。&lt;/li>
+&lt;li>メイド手稿&lt;/li>
+&lt;li>F-Memory&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>SkyColors&lt;/li>
+&lt;li>Alice Project&lt;/li>
+&lt;li>レモン研究所&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>レモンの休息所系列として設立の可能性がある組織&lt;/p>
+&lt;ul>
+&lt;li>スカコレ (Scarlet Collection) (設立予定)&lt;/li>
+&lt;li>Lemon economic&lt;/li>
+&lt;li>月計画&lt;/li>
+&lt;/ul>
+&lt;h2 id="変更点">変更点
+&lt;/h2>&lt;h3 id="名称">名称
+&lt;/h3>&lt;blockquote>
+&lt;p>記述形式:&lt;/p>
+&lt;ul>
+&lt;li>旧名
+&lt;ul>
+&lt;li>新名&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>LEC&lt;/p>
+&lt;ul>
+&lt;li>レモンの休息所 (Lemon&amp;rsquo;s resting area) (略: レレス)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>SGaCB (尾花と桜)&lt;/p>
+&lt;ul>
+&lt;li>Ivy Cafeteria (略: Ivy Cafe)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Akizuki Forest&lt;/p>
+&lt;ul>
+&lt;li>秋月と森&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>月面のレートピシ (月通信傍受計画)&lt;/p>
+&lt;ul>
+&lt;li>月計画&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="その他">その他
+&lt;/h3>&lt;ul>
+&lt;li>設立以来続いてきた4ブランド体制の崩壊&lt;br />
+(なお、 KISS は Ivy Cafe に、 COI は月計画に、 NEO は SkyColors 及び Alice Project に、 LFA はレモ研に実質的な立場の移管を行っているため、厳密にはその名残りを残している。)
+&lt;ul>
+&lt;li>子組織 (Ivy Cafe 及び Alice Project) の管理能力の増大&lt;/li>
+&lt;li>独自の方針が適応しやすくなる&lt;/li>
+&lt;li>組織間のやりとりがより円滑に&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>研究機関の統合 (レモ研が生物学研究を併合)
+&lt;ul>
+&lt;li>専門機関の設立が容易に&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="その他-1">その他
+&lt;/h2>&lt;ul>
+&lt;li>それぞれのブランドが保持していた独自規格などの所属に関しては後日決定することとする。&lt;/li>
+&lt;/ul>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/3/19)&lt;/li>
+&lt;/ul></description></item><item><title>2024年3月計画 中間報告</title><link>https://lemon73-computing.github.io/blog/ja/p/20240316-spring/</link><pubDate>Sat, 16 Mar 2024 14:40:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240316-spring/</guid><description>&lt;h2 id="目的">目的
+&lt;/h2>&lt;p>この資料では、前投稿の計画についての進捗を確認することを目的としています。&lt;/p>
+&lt;h2 id="進捗">進捗
+&lt;/h2>&lt;p>全体講評: &lt;strong>比較的よい&lt;/strong>&lt;/p>
+&lt;h3 id="資料作成">資料作成
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>ブログ
+&lt;ul>
+&lt;li>Hugo で設立&lt;/li>
+&lt;li>kde タグを &lt;a class="link" href="https://planet.kde.org" target="_blank" rel="noopener"
+>https://planet.kde.org&lt;/a> に接続 (Invent KDE にて)&lt;/li>
+&lt;li>3月計画(この資料)の発表&lt;/li>
+&lt;li>3月計画の中間発表(進捗公表)&lt;/li>
+&lt;li>3月計画の結果公表&lt;/li>
+&lt;li>今までの方針や計画の資料を移管&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>ブログに関しては、この通り設立自体出来ており、また3月計画資料についても発表が行えています。過去の公開資料の移管もほとんどが終了しているため、進捗は&lt;strong>かなりよい&lt;/strong>と言えます。
+ただし、 KDE 向けの資料をまだ作成していないため、 Planet KDE への接続は実施していません。(資料作成する前に接続してもよいのですが…)&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>KDE
+&lt;ul>
+&lt;li>Zenn 資料作成 (徐々に進めます。時間がかかるため、計画期間中に資料の完成を目指しません)&lt;/li>
+&lt;li>翻訳 (~2/28(KDE Megarelease 6 まで))&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>KDE 向けの資料は、明示的な計画ではなかったため、評価が難しいですが、&lt;strong>ややよい&lt;/strong>と思います。
+翻訳に関してはウェブサイトや Kontrast などの翻訳を行い、 KDE Megarelease 6 / KDE Gear 24.2 に貢献できました。
+資料作成は速度は遅いものの、着実に進んでいます。現在のペースを維持し、作成を続けていく次第です。&lt;/p>
+&lt;h3 id="ソフトウェア関係">ソフトウェア関係
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>Alice Project
+&lt;ul>
+&lt;li>v0.9.0 GA Release&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>&lt;strong>かなりよい&lt;/strong>です。
+もう少しでリリースできそうです。
+リリース前には1度 Android テスト利用をします。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>A____ (仕事関係/秘匿)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>&lt;strong>終了&lt;/strong>です(現段階では)。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>E______L___ (仕事関係/秘匿)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>開発はあまり進んでいないのですが、発表イベントがあったので一応&lt;strong>ややよい&lt;/strong>ということで。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>s____ s___ s_____ (仕事関係/秘匿)
+&lt;ul>
+&lt;li>______側&lt;/li>
+&lt;li>____側&lt;/li>
+&lt;li>交渉&lt;/li>
+&lt;li>開発方針について話し合い&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>&lt;strong>普通&lt;/strong>です。
+開発は進んでいないのですが、メンバーが交渉をしてくれて、その後サイトの設定等で多少進みました。
+開発方針くらいは決めたいところですね。&lt;/p>
+&lt;h3 id="その他">その他
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>パソコン整備
+&lt;ul>
+&lt;li>開発時間記録システムの変更&lt;br />
+(今までは Excel を使っていましたが、 Google Forms + Google Sheets に移管予定)&lt;/li>
+&lt;li>旧パソコンから新パソコンに情報を移管&lt;/li>
+&lt;li>旧パソコンで使っていたソフトウェアの記録を行う (必須ではない)&lt;/li>
+&lt;li>スマホにアカウントを移す&lt;/li>
+&lt;li>集中のために一部インターネット切断&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>これに関しては進捗は&lt;strong>普通&lt;/strong>です。
+時間記録システムとスマホ移管は出来ましたが、パソコン移管はほとんど進んでいません。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>部屋の整理
+&lt;ul>
+&lt;li>机の周辺整理&lt;/li>
+&lt;li>GSaCB 旧資料群のデジタル化 (必須ではない)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>これの進捗は割とどうでもよいのですが、一応評価すると、&lt;strong>やや悪い&lt;/strong>ですね。
+机周辺の資料整理はしておきたいですね。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/3/16)&lt;/li>
+&lt;/ul></description></item><item><title>2024年3月計画</title><link>https://lemon73-computing.github.io/blog/ja/p/20240219-spring/</link><pubDate>Mon, 19 Feb 2024 23:22:33 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240219-spring/</guid><description>&lt;h2 id="基本情報">基本情報
+&lt;/h2>&lt;h3 id="時期">時期
+&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>開始予定&lt;/th>
+&lt;th>終了予定&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2024/2/21&lt;/td>
+&lt;td>2024/4/6&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>3月計画という名前ですが、前後の約1週間を含みます。&lt;/p>
+&lt;p>(略称: 24年3月計画)&lt;/p>
+&lt;h3 id="目的">目的
+&lt;/h3>&lt;ul>
+&lt;li>作業(リアルの仕事)の効率化&lt;/li>
+&lt;li>パソコン移行作業&lt;/li>
+&lt;li>資料/事業整理&lt;/li>
+&lt;/ul>
+&lt;h2 id="実施">実施
+&lt;/h2>&lt;h3 id="資料作成">資料作成
+&lt;/h3>&lt;ul>
+&lt;li>ブログ
+&lt;ul>
+&lt;li>Hugo で設立&lt;/li>
+&lt;li>kde タグを &lt;a class="link" href="https://planet.kde.org" target="_blank" rel="noopener"
+>https://planet.kde.org&lt;/a> に接続 (Invent KDE にて)&lt;/li>
+&lt;li>3月計画(この資料)の発表&lt;/li>
+&lt;li>3月計画の中間発表(進捗公表)&lt;/li>
+&lt;li>3月計画の結果公表&lt;/li>
+&lt;li>今までの方針や計画の資料を移管&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>KDE
+&lt;ul>
+&lt;li>Zenn 資料作成 (徐々に進めます。時間がかかるため、計画期間中に資料の完成を目指しません)&lt;/li>
+&lt;li>翻訳 (~2/28(KDE Megarelease 6 まで))&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="ソフトウェア関係">ソフトウェア関係
+&lt;/h3>&lt;ul>
+&lt;li>Alice Project
+&lt;ul>
+&lt;li>v0.9.0 GA Release&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A____ (仕事関係/秘匿)&lt;/li>
+&lt;li>E______L___ (仕事関係/秘匿)&lt;/li>
+&lt;li>s____ s___ s_____ (仕事関係/秘匿)
+&lt;ul>
+&lt;li>______側&lt;/li>
+&lt;li>____側&lt;/li>
+&lt;li>交渉&lt;/li>
+&lt;li>開発方針について話し合い&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="その他">その他
+&lt;/h3>&lt;ul>
+&lt;li>パソコン整備
+&lt;ul>
+&lt;li>開発時間記録システムの変更&lt;br />
+(今までは Excel を使っていましたが、 Google Forms + Google Sheets に移管予定)&lt;/li>
+&lt;li>旧パソコンから新パソコンに情報を移管&lt;/li>
+&lt;li>旧パソコンで使っていたソフトウェアの記録を行う (必須ではない)&lt;/li>
+&lt;li>スマホにアカウントを移す&lt;/li>
+&lt;li>集中のために一部インターネット切断&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>部屋の整理
+&lt;ul>
+&lt;li>机の周辺整理&lt;/li>
+&lt;li>GSaCB 旧資料群のデジタル化 (必須ではない)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/2/20)&lt;/li>
+&lt;/ul></description></item><item><title>2024年新年</title><link>https://lemon73-computing.github.io/blog/ja/p/20240101-new-year/</link><pubDate>Mon, 01 Jan 2024 20:23:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240101-new-year/</guid><description>&lt;p>この資料では、現時点で決定している今後の方針について記載しています。&lt;/p>
+&lt;h2 id="全体的な今後の方針">全体的な今後の方針
+&lt;/h2>&lt;p>全体的には縮小に向けた活動で、新規の計画を進める予定はありません。&lt;/p>
+&lt;h2 id="色彩学">色彩学
+&lt;/h2>&lt;ul>
+&lt;li>Sky Colors(Blazor v2.9.2): 開発停止 (or 国際化まで実装)&lt;/li>
+&lt;li>Sky Colors(その他): 放置&lt;/li>
+&lt;/ul>
+&lt;h2 id="物語系--ゲーム">物語系 / ゲーム
+&lt;/h2>&lt;ul>
+&lt;li>SGaCB(A-RPG S2): 放置&lt;/li>
+&lt;li>SGaCB(A-RPG P2D): 放置&lt;/li>
+&lt;li>SGaCB(Akizuki Forest): 放置&lt;/li>
+&lt;li>SGaCB(全体): シナリオのみ考案、ゲームとしてや小説としての公開は行わない。&lt;/li>
+&lt;li>Alice Project(Alice Novel): 開発継続&lt;br />
+(v0.9.0まで。できればシナリオ分岐を含めたv1.0.0の実装までが好ましい。 プラグイン実装(Alice Soas)を行う予定はなし。)&lt;/li>
+&lt;/ul>
+&lt;h2 id="ベンチマーク">ベンチマーク
+&lt;/h2>&lt;ul>
+&lt;li>Himeno Next: 放置&lt;/li>
+&lt;/ul>
+&lt;h2 id="3d">3D
+&lt;/h2>&lt;ul>
+&lt;li>3D都市計画: 放置&lt;/li>
+&lt;li>スカコレ(Scarlet collections!!): 計画考案中&lt;br />
+(東方紅魔郷風の3D素材。家具とか部屋とかMMDなどで使えるようなもの。)&lt;/li>
+&lt;/ul>
+&lt;h2 id="研究系">研究系
+&lt;/h2>&lt;ul>
+&lt;li>色彩学研究: 計画考案中&lt;/li>
+&lt;/ul>
+&lt;h2 id="資料公開">資料公開
+&lt;/h2>&lt;p>予定なし&lt;/p>
+&lt;h2 id="対外支援">対外支援
+&lt;/h2>&lt;ul>
+&lt;li>KDE(日本KDE): 翻訳支援などを不定期に行うかも?&lt;/li>
+&lt;li>KDE(KDE Itary): サイトのfirefox版におけるバグを修正予定&lt;/li>
+&lt;li>KDE(Krita): 翻訳支援 or 広報(使い方の記事か動画を作るとか)をするかも?&lt;/li>
+&lt;/ul>
+&lt;h2 id="イラスト">イラスト
+&lt;/h2>&lt;p>今年も可愛い娘を描きたいね。&lt;br />
+投稿はたいていRedditで行っています。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://lemon73-computing.github.io/docs/20240101-new-year" target="_blank" rel="noopener"
+>Lemon&amp;rsquo;s Resting Area website&lt;/a> (2024/1/1)&lt;/li>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/2/25)&lt;/li>
+&lt;/ul></description></item><item><title>2022年冬休止</title><link>https://lemon73-computing.github.io/blog/ja/p/20221216-winter/</link><pubDate>Fri, 16 Dec 2022 11:27:58 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20221216-winter/</guid><description>&lt;h2 id="発行">発行
+&lt;/h2>&lt;p>LEC 本部&lt;/p>
+&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>LEC 本部の運営を行っている Lemon73 が LEC の活動と、現実活動の両立を続けることは不可能といえる状況となりました。&lt;br />
+ここまで現実の活動が厳しくなったのは二つの理由が存在します。&lt;/p>
+&lt;h3 id="時期">時期
+&lt;/h3>&lt;p>LEC 設立時期から予想していたことですが、2023年や2024年はかなり現実活動が激化し、 LEC の活動を十分に進められないだろうと元から想像していました。&lt;br />
+しかし、それが予想を上回り、予定 (2023年秋ごろ~) よりも約1年も早く休止となってしまいました。&lt;/p>
+&lt;h3 id="lec-活動の拡大">LEC 活動の拡大
+&lt;/h3>&lt;p>LEC は設立時期から多くの事業を抱えていますが、最近はそれがさらに拡大し、そのすべてを十分に運営するには時間が不足するようになってしまいました。&lt;/p>
+&lt;h2 id="今後の方針">今後の方針
+&lt;/h2>&lt;p>以下の通りに進めていく予定です。&lt;/p>
+&lt;p>サポート開始&lt;/p>
+&lt;ul>
+&lt;li>A-RPG S2 - KISS&lt;/li>
+&lt;li>■■■■■ ■■■ - KISS&lt;/li>
+&lt;/ul>
+&lt;p>継続予定&lt;/p>
+&lt;ul>
+&lt;li>■■■■■■■■■■ - LEC 本部&lt;/li>
+&lt;li>LFxxxx - LEC 本部&lt;/li>
+&lt;/ul>
+&lt;p>休止&lt;/p>
+&lt;ul>
+&lt;li>尾花と桜 - KISS&lt;br>
+(シナリオ/グラフィックのみ残留)&lt;/li>
+&lt;li>静岡高専計画 - KISS&lt;/li>
+&lt;li>LCL (ライセンス) - LEC 本部&lt;/li>
+&lt;li>音楽事業 - LEC 本部&lt;/li>
+&lt;/ul>
+&lt;p>未定&lt;/p>
+&lt;ul>
+&lt;li>サイト計画 - LEC 本部&lt;/li>
+&lt;/ul>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://discord.com/channels/972718425937952798/984410962931109988/1053138489853628457" target="_blank" rel="noopener"
+>Discord&lt;/a> (2022/12/16)&lt;/li>
+&lt;li>&lt;a class="link" href="https://lemon73-computing.github.io/docs/20221216-winter" target="_blank" rel="noopener"
+>Lemon&amp;rsquo;s Resting Area website&lt;/a> (2023/2/20)&lt;/li>
+&lt;li>&lt;a class="link" href="https://lemon73.gitlab.io/docs/20221216" target="_blank" rel="noopener"
+>LEC website&lt;/a> (2023/6/13)&lt;/li>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/2/21)&lt;/li>
+&lt;/ul></description></item><item><title>2022年秋計画</title><link>https://lemon73-computing.github.io/blog/ja/p/20221103-fall/</link><pubDate>Thu, 03 Nov 2022 02:15:14 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20221103-fall/</guid><description>&lt;p>秘密計画に関しては秘匿としています。&lt;/p>
+&lt;h2 id="参加">参加
+&lt;/h2>&lt;p>Lemon73 (LEC)&lt;/p>
+&lt;h2 id="計画">計画
+&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>2022/11月&lt;br />
+予定なし&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2022/12/24&lt;br />
+LF2204 - 冬 - (今年最後の冬季大祭)&lt;/p>
+&lt;ul>
+&lt;li>メインコンテンツ (■■■■■風の■■■■■■■■■■■)&lt;/li>
+&lt;li>A-RPG S2/■■■ ■■■■&lt;/li>
+&lt;li>A-RPG S2 (β版) 公開&lt;/li>
+&lt;li>■■■■■ ■■■(早期リリース版)公開&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>2022/12/27&lt;br />
+2022年版Lemonの■■&lt;/p>
+&lt;ul>
+&lt;li>■■■■■ ■■■改良 (バージョンアップ?)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>2023/1月&lt;br />
+■■■■■■サービス開始?&lt;/p>
+&lt;ul>
+&lt;li>■■ (■■■ frameworks/■■■■■■■■) の試用&lt;/li>
+&lt;li>↑を■■■■■■形式の■■にして公開する (■■■■界隈■の■■進出)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>2023/1月&lt;br />
+■■ (=■■=■■■■■) 計画 (■■■■■■■■■■■■) (■■■■■■■■■■■■■■ソフトを作る) ?&lt;/p>
+&lt;ul>
+&lt;li>OSS公開 x&lt;/li>
+&lt;li>■■■ frameworks(■■■■■■■■)/■■■■のどちらかまたは両方で公開を行う&lt;br />
+(公開時点ではWin版を正式対応、Mac/Linuxはソフト公開自体行うが動作確認はしない
+(なお、WebGL版もBuildできると思うが、サーバーがないので公開はなし)
+(Linuxは実機で動作確認できる環境が整備次第正式対応に格上げ。
+たぶんDebianベースのみでRHELベースなどの対応はなし))&lt;/li>
+&lt;li>仕組みとしては、■■を選択し(選択しなくてもよい)、その■■に合った■を表示+■■■■■を出力する&lt;br />
+(■■■/■■■から選択し、同時に5■出力もアップデートで追加)
+■■■■■にも似たようなWebシステムがあるので、それに対抗する形。
+LECとしては■となる■■■■■■■
+(ぶっちゃけあの分野は■■ない、LEC知名度ない、
+(■■■■■のサービスにはある)■■■■■用の■■■システム(←なんていえばいいのかわからないけどわかってくれw)がないという3つの&lt;strong>ない&lt;/strong>で厳しいと思う。あと、独自性がない←致命的)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>2023/1月&lt;br />
+■■■■■ ■■■&lt;/p>
+&lt;ul>
+&lt;li>新機能追加 (kwskは後ほど決定)&lt;/li>
+&lt;/ul>
+&lt;p>(A-RPG S2はいったん開発停止)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://discord.com/channels/972718425937952798/972725666778873898/1037414721323810868" target="_blank" rel="noopener"
+>Discord&lt;/a> (2022/11/3)&lt;/li>
+&lt;li>&lt;a class="link" href="https://lemon73-computing.github.io/docs/20221103-fall" target="_blank" rel="noopener"
+>Lemon&amp;rsquo;s Resting Area website&lt;/a> (2023/2/20)&lt;/li>
+&lt;li>&lt;a class="link" href="https://lemon73.gitlab.io/docs/20221103" target="_blank" rel="noopener"
+>LEC website&lt;/a> (2023/6/13)&lt;/li>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/2/21)&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Schedule on Lemon73 Blog</title><link>https://lemon73-computing.github.io/blog/ja/tags/release-schedule/</link><description>Recent content in Release Schedule on Lemon73 Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 05 Oct 2024 17:36:00 +0900</lastBuildDate><atom:link href="https://lemon73-computing.github.io/blog/ja/tags/release-schedule/index.xml" rel="self" type="application/rss+xml"/><item><title>リリース予定: Alice Novel v0.9.3</title><link>https://lemon73-computing.github.io/blog/ja/p/20241004-alicenovel-next/</link><pubDate>Sat, 05 Oct 2024 17:36:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20241004-alicenovel-next/</guid><description>&lt;p>Alice Novel の次期バージョン v0.9.3 のリリースを検討しています。このリリースには CI/CD の修正、ディレクトリ構成の変更、そして依存関係の更新が含まれています。&lt;/p>
+&lt;h3 id="現在">現在
+&lt;/h3>&lt;p>現在、すでにいくつかの PR がマージされており、それらは次期リリースに組み込む予定です。以下をご覧ください。&lt;/p>
+&lt;ul>
+&lt;li>docs (license): change the license (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/72" target="_blank" rel="noopener"
+>#72&lt;/a>)&lt;/li>
+&lt;li>chore (dependencies): bump dependencies (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/73" target="_blank" rel="noopener"
+>#73&lt;/a>)&lt;/li>
+&lt;li>chore (dependencies): bump maui version (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/74" target="_blank" rel="noopener"
+>#74&lt;/a>)&lt;/li>
+&lt;li>chore (ci/cd): recreate the android ci/cd on azure devops (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/77" target="_blank" rel="noopener"
+>#77&lt;/a>)&lt;/li>
+&lt;li>build (deps): bump packages (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/78" target="_blank" rel="noopener"
+>#78&lt;/a>)&lt;/li>
+&lt;li>chore (ci/cd): bump actions/upload-artifact from v3 to v4 (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/46" target="_blank" rel="noopener"
+>#46&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h3 id="予定">予定
+&lt;/h3>&lt;p>次期リリースまでに更にいくつかの PR を追加する予定です。&lt;/p>
+&lt;ul>
+&lt;li>chore (scripts): move scripts files and update documentations (&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/76" target="_blank" rel="noopener"
+>#76&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>また、アプリケーションはセーブシステムに問題を抱えています。新しいセーブシステムに置き換えることでそのバグを修正する予定です。(関連: &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/67" target="_blank" rel="noopener"
+>#67&lt;/a>)&lt;/p>
+&lt;p>加えて、&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/69" target="_blank" rel="noopener"
+>#69&lt;/a> (&lt;code>.anproj&lt;/code> ファイルが読み込まれるまでセーブボタンを隠す) や &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/10" target="_blank" rel="noopener"
+>#10&lt;/a> (英語対応) は簡単に対応可能であると考えています。&lt;/p>
+&lt;p>結論としては、&lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/76" target="_blank" rel="noopener"
+>#76&lt;/a>, &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/67" target="_blank" rel="noopener"
+>#67&lt;/a> (Android の &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/61" target="_blank" rel="noopener"
+>#61&lt;/a> と Windows 向けの &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/issues/47" target="_blank" rel="noopener"
+>#47&lt;/a> を含む), &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/69" target="_blank" rel="noopener"
+>#69&lt;/a>, &lt;a class="link" href="https://github.com/AliceNovel/AliceNovel/pull/10" target="_blank" rel="noopener"
+>#10&lt;/a> そして、いくつかのリファクタリングを v0.9.3 のリリースまでに行うことを視野に入れています。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (EN: 2024/10/4, JP: 2024/10/5)&lt;/li>
+&lt;/ul></description></item></channel></rss>

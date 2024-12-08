@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Progress: Success on Lemon73 Blog</title><link>https://lemon73-computing.github.io/blog/ja/categories/progress-success/</link><description>Recent content in Progress: Success on Lemon73 Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 07 Apr 2024 01:31:00 +0900</lastBuildDate><atom:link href="https://lemon73-computing.github.io/blog/ja/categories/progress-success/index.xml" rel="self" type="application/rss+xml"/><item><title>2024年3月計画 最終報告</title><link>https://lemon73-computing.github.io/blog/ja/p/20240407-spring/</link><pubDate>Sun, 07 Apr 2024 01:31:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240407-spring/</guid><description>&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>2024年3月計画の最終結果の報告資料です。&lt;/p>
+&lt;h2 id="評価">評価
+&lt;/h2>&lt;p>評価は以下の5段階評価とします。&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Excellent&lt;/strong> - 大変良い&lt;/li>
+&lt;li>&lt;strong>Very Good&lt;/strong> - 良い&lt;/li>
+&lt;li>&lt;strong>Good&lt;/strong> - やや良い&lt;/li>
+&lt;li>&lt;strong>Average&lt;/strong> - 普通&lt;/li>
+&lt;li>&lt;strong>Poor&lt;/strong> - 悪い&lt;/li>
+&lt;/ol>
+&lt;h2 id="進捗">進捗
+&lt;/h2>&lt;p>全体講評: &lt;strong>Very Good&lt;/strong>&lt;/p>
+&lt;p>この計画は&lt;strong>成功した&lt;/strong>と言ってよいと思います。&lt;/p>
+&lt;h3 id="資料作成">資料作成
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>ブログ
+&lt;ul>
+&lt;li>Hugo で設立&lt;/li>
+&lt;li>kde タグを &lt;a class="link" href="https://planet.kde.org" target="_blank" rel="noopener"
+>https://planet.kde.org&lt;/a> に接続 (Invent KDE にて)&lt;/li>
+&lt;li>3月計画(この資料)の発表&lt;/li>
+&lt;li>3月計画の中間発表(進捗公表)&lt;/li>
+&lt;li>3月計画の結果公表&lt;/li>
+&lt;li>今までの方針や計画の資料を移管&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Very Good&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>中間発表から特に変化はありません。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>KDE
+&lt;ul>
+&lt;li>Zenn 資料作成 (徐々に進めます。時間がかかるため、計画期間中に資料の完成を目指しません)&lt;/li>
+&lt;li>翻訳 (~2/28(KDE Megarelease 6 まで))&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Good&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>こちらも中間発表から特に変化はありません。&lt;/p>
+&lt;h3 id="ソフトウェア関係">ソフトウェア関係
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>Alice Project
+&lt;ul>
+&lt;li>v0.9.0 GA Release&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Excellent&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>v0.9.0 最後の issue が終了し、 GA としてリリースされました。
+また、 v0.9.0 SR (サービスリリース)として、若干の機能追加と調整が行われた v0.9.1 がリリースしました。&lt;/p>
+&lt;p>これからは開発をいったん休止し、休止後は更なる v0.9.0 SR (サービスリリース)の開発及び v1.0.0 への開発、仕様決定を進めていく予定です。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>A____ (仕事関係/秘匿)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Excellent&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>無事終了しました。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>E______L___ (仕事関係/秘匿)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>評価: &lt;strong>Very Good&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>中間発表から1回の発表があり、開発(新システムへの移管)自体もかなり進んだのでこの評価とします。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>s____ s___ s_____ (仕事関係/秘匿)
+&lt;ul>
+&lt;li>______側&lt;/li>
+&lt;li>____側&lt;/li>
+&lt;li>交渉&lt;/li>
+&lt;li>開発方針について話し合い&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>評価: &lt;strong>Average&lt;/strong>&lt;/p>
+&lt;p>共同開発者が____側の開発を進めてくれているので、今後は自分も開発により参加していく予定です。&lt;/p>
+&lt;p>______側の開発は計画開始以前にほとんど完成していたため、あとは微調整をするだけです。&lt;/p>
+&lt;h3 id="その他">その他
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>パソコン整備
+&lt;ul>
+&lt;li>開発時間記録システムの変更&lt;br />
+(今までは Excel を使っていましたが、 Google Forms + Google Sheets に移管予定)&lt;/li>
+&lt;li>旧パソコンから新パソコンに情報を移管&lt;/li>
+&lt;li>旧パソコンで使っていたソフトウェアの記録を行う (必須ではない)&lt;/li>
+&lt;li>スマホにアカウントを移す&lt;/li>
+&lt;li>集中のために一部インターネット切断&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>評価: &lt;strong>Average&lt;/strong>&lt;/p>
+&lt;p>パソコン移管がほとんど進んでいません。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>部屋の整理
+&lt;ul>
+&lt;li>机の周辺整理&lt;/li>
+&lt;li>GSaCB 旧資料群のデジタル化 (必須ではない)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>評価: &lt;strong>Good&lt;/strong>&lt;/p>
+&lt;p>机周辺はかなり整理できたので、この評価とします。&lt;br />
+まだ使っていない資料がたくさんあるので、これらも捨てることが出来そうですが…&lt;br />
+また今度でいいでしょう。&lt;/p>
+&lt;p>なお、旧資料のデジタル化はまったく進んでいません。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/4/7)&lt;/li>
+&lt;/ul></description></item><item><title>2024年茶屋計画</title><link>https://lemon73-computing.github.io/blog/ja/p/20240319-cafe-project/</link><pubDate>Tue, 19 Mar 2024 20:10:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240319-cafe-project/</guid><description>&lt;h2 id="概要">概要
+&lt;/h2>&lt;p>グループ名の刷新や統合に関する資料。&lt;/p>
+&lt;h2 id="組織図変更">組織図変更
+&lt;/h2>&lt;h3 id="旧体制">旧体制
+&lt;/h3>&lt;ul>
+&lt;li>LEC
+&lt;ul>
+&lt;li>KISS
+&lt;ul>
+&lt;li>SGaCB (旧: 尾花と桜)
+&lt;ul>
+&lt;li>A-RPG&lt;/li>
+&lt;li>Akizuki Forest&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>COI
+&lt;ul>
+&lt;li>月面のレートピシ (月通信傍受計画)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>NEO
+&lt;ul>
+&lt;li>SkyColors&lt;/li>
+&lt;li>Himeno Next&lt;/li>
+&lt;li>Alice Project&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>LFA (旧: PINK)
+&lt;ul>
+&lt;li>レモン研究所 (レモ研)&lt;/li>
+&lt;li>生物学研究&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="新体制">新体制
+&lt;/h3>&lt;ul>
+&lt;li>レモンの休息所
+&lt;ul>
+&lt;li>Ivy Cafeteria
+&lt;ul>
+&lt;li>秋月と森&lt;/li>
+&lt;li>世界の終焉の前に。&lt;/li>
+&lt;li>メイド手稿&lt;/li>
+&lt;li>F-Memory&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>SkyColors&lt;/li>
+&lt;li>Alice Project&lt;/li>
+&lt;li>レモン研究所&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>レモンの休息所系列として設立の可能性がある組織&lt;/p>
+&lt;ul>
+&lt;li>スカコレ (Scarlet Collection) (設立予定)&lt;/li>
+&lt;li>Lemon economic&lt;/li>
+&lt;li>月計画&lt;/li>
+&lt;/ul>
+&lt;h2 id="変更点">変更点
+&lt;/h2>&lt;h3 id="名称">名称
+&lt;/h3>&lt;blockquote>
+&lt;p>記述形式:&lt;/p>
+&lt;ul>
+&lt;li>旧名
+&lt;ul>
+&lt;li>新名&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>LEC&lt;/p>
+&lt;ul>
+&lt;li>レモンの休息所 (Lemon&amp;rsquo;s resting area) (略: レレス)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>SGaCB (尾花と桜)&lt;/p>
+&lt;ul>
+&lt;li>Ivy Cafeteria (略: Ivy Cafe)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Akizuki Forest&lt;/p>
+&lt;ul>
+&lt;li>秋月と森&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>月面のレートピシ (月通信傍受計画)&lt;/p>
+&lt;ul>
+&lt;li>月計画&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="その他">その他
+&lt;/h3>&lt;ul>
+&lt;li>設立以来続いてきた4ブランド体制の崩壊&lt;br />
+(なお、 KISS は Ivy Cafe に、 COI は月計画に、 NEO は SkyColors 及び Alice Project に、 LFA はレモ研に実質的な立場の移管を行っているため、厳密にはその名残りを残している。)
+&lt;ul>
+&lt;li>子組織 (Ivy Cafe 及び Alice Project) の管理能力の増大&lt;/li>
+&lt;li>独自の方針が適応しやすくなる&lt;/li>
+&lt;li>組織間のやりとりがより円滑に&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>研究機関の統合 (レモ研が生物学研究を併合)
+&lt;ul>
+&lt;li>専門機関の設立が容易に&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="その他-1">その他
+&lt;/h2>&lt;ul>
+&lt;li>それぞれのブランドが保持していた独自規格などの所属に関しては後日決定することとする。&lt;/li>
+&lt;/ul>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/3/19)&lt;/li>
+&lt;/ul></description></item><item><title>2024年3月計画 中間報告</title><link>https://lemon73-computing.github.io/blog/ja/p/20240316-spring/</link><pubDate>Sat, 16 Mar 2024 14:40:00 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240316-spring/</guid><description>&lt;h2 id="目的">目的
+&lt;/h2>&lt;p>この資料では、前投稿の計画についての進捗を確認することを目的としています。&lt;/p>
+&lt;h2 id="進捗">進捗
+&lt;/h2>&lt;p>全体講評: &lt;strong>比較的よい&lt;/strong>&lt;/p>
+&lt;h3 id="資料作成">資料作成
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>ブログ
+&lt;ul>
+&lt;li>Hugo で設立&lt;/li>
+&lt;li>kde タグを &lt;a class="link" href="https://planet.kde.org" target="_blank" rel="noopener"
+>https://planet.kde.org&lt;/a> に接続 (Invent KDE にて)&lt;/li>
+&lt;li>3月計画(この資料)の発表&lt;/li>
+&lt;li>3月計画の中間発表(進捗公表)&lt;/li>
+&lt;li>3月計画の結果公表&lt;/li>
+&lt;li>今までの方針や計画の資料を移管&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>ブログに関しては、この通り設立自体出来ており、また3月計画資料についても発表が行えています。過去の公開資料の移管もほとんどが終了しているため、進捗は&lt;strong>かなりよい&lt;/strong>と言えます。
+ただし、 KDE 向けの資料をまだ作成していないため、 Planet KDE への接続は実施していません。(資料作成する前に接続してもよいのですが…)&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>KDE
+&lt;ul>
+&lt;li>Zenn 資料作成 (徐々に進めます。時間がかかるため、計画期間中に資料の完成を目指しません)&lt;/li>
+&lt;li>翻訳 (~2/28(KDE Megarelease 6 まで))&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>KDE 向けの資料は、明示的な計画ではなかったため、評価が難しいですが、&lt;strong>ややよい&lt;/strong>と思います。
+翻訳に関してはウェブサイトや Kontrast などの翻訳を行い、 KDE Megarelease 6 / KDE Gear 24.2 に貢献できました。
+資料作成は速度は遅いものの、着実に進んでいます。現在のペースを維持し、作成を続けていく次第です。&lt;/p>
+&lt;h3 id="ソフトウェア関係">ソフトウェア関係
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>Alice Project
+&lt;ul>
+&lt;li>v0.9.0 GA Release&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>&lt;strong>かなりよい&lt;/strong>です。
+もう少しでリリースできそうです。
+リリース前には1度 Android テスト利用をします。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>A____ (仕事関係/秘匿)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>&lt;strong>終了&lt;/strong>です(現段階では)。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>E______L___ (仕事関係/秘匿)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>開発はあまり進んでいないのですが、発表イベントがあったので一応&lt;strong>ややよい&lt;/strong>ということで。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>s____ s___ s_____ (仕事関係/秘匿)
+&lt;ul>
+&lt;li>______側&lt;/li>
+&lt;li>____側&lt;/li>
+&lt;li>交渉&lt;/li>
+&lt;li>開発方針について話し合い&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>&lt;strong>普通&lt;/strong>です。
+開発は進んでいないのですが、メンバーが交渉をしてくれて、その後サイトの設定等で多少進みました。
+開発方針くらいは決めたいところですね。&lt;/p>
+&lt;h3 id="その他">その他
+&lt;/h3>&lt;blockquote>
+&lt;ul>
+&lt;li>パソコン整備
+&lt;ul>
+&lt;li>開発時間記録システムの変更&lt;br />
+(今までは Excel を使っていましたが、 Google Forms + Google Sheets に移管予定)&lt;/li>
+&lt;li>旧パソコンから新パソコンに情報を移管&lt;/li>
+&lt;li>旧パソコンで使っていたソフトウェアの記録を行う (必須ではない)&lt;/li>
+&lt;li>スマホにアカウントを移す&lt;/li>
+&lt;li>集中のために一部インターネット切断&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>これに関しては進捗は&lt;strong>普通&lt;/strong>です。
+時間記録システムとスマホ移管は出来ましたが、パソコン移管はほとんど進んでいません。&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>部屋の整理
+&lt;ul>
+&lt;li>机の周辺整理&lt;/li>
+&lt;li>GSaCB 旧資料群のデジタル化 (必須ではない)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>これの進捗は割とどうでもよいのですが、一応評価すると、&lt;strong>やや悪い&lt;/strong>ですね。
+机周辺の資料整理はしておきたいですね。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/3/16)&lt;/li>
+&lt;/ul></description></item><item><title>2024年3月計画</title><link>https://lemon73-computing.github.io/blog/ja/p/20240219-spring/</link><pubDate>Mon, 19 Feb 2024 23:22:33 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20240219-spring/</guid><description>&lt;h2 id="基本情報">基本情報
+&lt;/h2>&lt;h3 id="時期">時期
+&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>開始予定&lt;/th>
+&lt;th>終了予定&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2024/2/21&lt;/td>
+&lt;td>2024/4/6&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>3月計画という名前ですが、前後の約1週間を含みます。&lt;/p>
+&lt;p>(略称: 24年3月計画)&lt;/p>
+&lt;h3 id="目的">目的
+&lt;/h3>&lt;ul>
+&lt;li>作業(リアルの仕事)の効率化&lt;/li>
+&lt;li>パソコン移行作業&lt;/li>
+&lt;li>資料/事業整理&lt;/li>
+&lt;/ul>
+&lt;h2 id="実施">実施
+&lt;/h2>&lt;h3 id="資料作成">資料作成
+&lt;/h3>&lt;ul>
+&lt;li>ブログ
+&lt;ul>
+&lt;li>Hugo で設立&lt;/li>
+&lt;li>kde タグを &lt;a class="link" href="https://planet.kde.org" target="_blank" rel="noopener"
+>https://planet.kde.org&lt;/a> に接続 (Invent KDE にて)&lt;/li>
+&lt;li>3月計画(この資料)の発表&lt;/li>
+&lt;li>3月計画の中間発表(進捗公表)&lt;/li>
+&lt;li>3月計画の結果公表&lt;/li>
+&lt;li>今までの方針や計画の資料を移管&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>KDE
+&lt;ul>
+&lt;li>Zenn 資料作成 (徐々に進めます。時間がかかるため、計画期間中に資料の完成を目指しません)&lt;/li>
+&lt;li>翻訳 (~2/28(KDE Megarelease 6 まで))&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="ソフトウェア関係">ソフトウェア関係
+&lt;/h3>&lt;ul>
+&lt;li>Alice Project
+&lt;ul>
+&lt;li>v0.9.0 GA Release&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A____ (仕事関係/秘匿)&lt;/li>
+&lt;li>E______L___ (仕事関係/秘匿)&lt;/li>
+&lt;li>s____ s___ s_____ (仕事関係/秘匿)
+&lt;ul>
+&lt;li>______側&lt;/li>
+&lt;li>____側&lt;/li>
+&lt;li>交渉&lt;/li>
+&lt;li>開発方針について話し合い&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="その他">その他
+&lt;/h3>&lt;ul>
+&lt;li>パソコン整備
+&lt;ul>
+&lt;li>開発時間記録システムの変更&lt;br />
+(今までは Excel を使っていましたが、 Google Forms + Google Sheets に移管予定)&lt;/li>
+&lt;li>旧パソコンから新パソコンに情報を移管&lt;/li>
+&lt;li>旧パソコンで使っていたソフトウェアの記録を行う (必須ではない)&lt;/li>
+&lt;li>スマホにアカウントを移す&lt;/li>
+&lt;li>集中のために一部インターネット切断&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>部屋の整理
+&lt;ul>
+&lt;li>机の周辺整理&lt;/li>
+&lt;li>GSaCB 旧資料群のデジタル化 (必須ではない)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/2/20)&lt;/li>
+&lt;/ul></description></item></channel></rss>

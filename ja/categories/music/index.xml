@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Music on Lemon73 Blog</title><link>https://lemon73-computing.github.io/blog/ja/categories/music/</link><description>Recent content in Music on Lemon73 Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 07 Jun 2023 23:43:43 +0900</lastBuildDate><atom:link href="https://lemon73-computing.github.io/blog/ja/categories/music/index.xml" rel="self" type="application/rss+xml"/><item><title>音楽ソフトウェア</title><link>https://lemon73-computing.github.io/blog/ja/p/20230607-music/</link><pubDate>Wed, 07 Jun 2023 23:43:43 +0900</pubDate><guid>https://lemon73-computing.github.io/blog/ja/p/20230607-music/</guid><description>&lt;p>本資料では、 LEC で利用している音楽関連のソフトウェアについて記す。&lt;/p>
+&lt;h2 id="dtm">DTM
+&lt;/h2>&lt;h3 id="lmms">LMMS
+&lt;/h3>&lt;ul>
+&lt;li>&lt;a class="link" href="https://lmms.io" target="_blank" rel="noopener"
+>公式ウェブサイト&lt;/a>&lt;/li>
+&lt;li>ライセンス: GPL v2.0&lt;/li>
+&lt;li>開発開始: 2004年&lt;/li>
+&lt;li>OS: Windows / macOS / Linux&lt;/li>
+&lt;li>日本語: 一部対応 (16%)&lt;/li>
+&lt;li>開発元: &lt;a class="link" href="https://github.com/LMMS" target="_blank" rel="noopener"
+>LMMS&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/LMMS/lmms" target="_blank" rel="noopener"
+>GitHub レポジトリ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>独自管理&lt;/p>
+&lt;ul>
+&lt;li>利用開始(自分): 2022/8/5 (v1.2.2 win64)&lt;/li>
+&lt;/ul>
+&lt;p>Linux を含めたクロスプラットフォーム音楽ソフトウェア。
+繰り返しの表現を得意としている。&lt;/p>
+&lt;h3 id="domino">Domino
+&lt;/h3>&lt;ul>
+&lt;li>&lt;a class="link" href="https://takabosoft.com/domino" target="_blank" rel="noopener"
+>公式ウェブサイト&lt;/a>&lt;/li>
+&lt;li>初リリース: 2007/1/31 (v1.00)&lt;/li>
+&lt;li>OS: Windows&lt;/li>
+&lt;li>日本語: 対応 (100%)&lt;/li>
+&lt;li>開発元: &lt;a class="link" href="https://takabosoft.com" target="_blank" rel="noopener"
+>TAKABO SOFT&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>独自管理&lt;/p>
+&lt;ul>
+&lt;li>利用開始(自分): 2022/3/10 (v1.44)&lt;/li>
+&lt;/ul>
+&lt;p>MIDI エディター。&lt;/p>
+&lt;h2 id="vstプラグイン">VSTプラグイン
+&lt;/h2>&lt;h3 id="ott">OTT
+&lt;/h3>&lt;ul>
+&lt;li>&lt;a class="link" href="https://xferrecords.com/freeware" target="_blank" rel="noopener"
+>ダウンロードページ&lt;/a>&lt;/li>
+&lt;li>OS: Windows / macOS&lt;/li>
+&lt;li>開発元: &lt;a class="link" href="https://xferrecords.com" target="_blank" rel="noopener"
+>XferRecords&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>独自管理&lt;/p>
+&lt;ul>
+&lt;li>利用開始(自分): 2022/7/31 (v135 通常/x64)&lt;/li>
+&lt;/ul>
+&lt;p>言わずと知れた有名プラグイン。
+低音や高音のカットなどの調整が簡単に出来るので便利です。&lt;/p>
+&lt;h3 id="lifeline-console">Lifeline Console
+&lt;/h3>&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.excite-audio.com/lifeline/lifeline-console" target="_blank" rel="noopener"
+>公式ウェブサイト&lt;/a>&lt;/li>
+&lt;li>OS: Windows / macOS&lt;/li>
+&lt;li>開発元: &lt;a class="link" href="https://www.excite-audio.com" target="_blank" rel="noopener"
+>Excite Audio.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>独自管理&lt;/p>
+&lt;ul>
+&lt;li>利用開始(自分): 2023/6/6 (v1.1.1)&lt;/li>
+&lt;/ul>
+&lt;p>自然な雰囲気に調整するなどに向いています。
+ピアノやギターを主体としたゆったりとした音楽に向いていると感じます。&lt;/p>
+&lt;p>有料プラグインですが、期間限定の無料で入手できました。&lt;/p>
+&lt;h2 id="その他">その他
+&lt;/h2>&lt;h3 id="audacity">Audacity
+&lt;/h3>&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.audacityteam.org" target="_blank" rel="noopener"
+>公式ウェブサイト&lt;/a>&lt;/li>
+&lt;li>ライセンス: GPL v2.0 / GPL v3.0 / CC-BY 3.0&lt;/li>
+&lt;li>開発元: &lt;a class="link" href="https://github.com/audacity" target="_blank" rel="noopener"
+>The Audacity Team&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/audacity/audacity" target="_blank" rel="noopener"
+>GitHub レポジトリ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>独自情報&lt;/p>
+&lt;ul>
+&lt;li>利用開始(自分): 2022/7/23 (v3.1.3 win64)&lt;/li>
+&lt;/ul>
+&lt;p>音声波形の操作が可能なソフトウェアです。
+ノイズ除去などに利用できます。&lt;/p>
+&lt;h3 id="音声系">音声系
+&lt;/h3>&lt;p>音声系に関しては本資料では割愛します。
+Synthesizer VやCoeiroinkなどは他の文章にて紹介を行う予定です。&lt;/p>
+&lt;h2 id="公開">公開
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="./" >Lemon73 Blog (ここ)&lt;/a> (2024/2/25)&lt;/li>
+&lt;/ul></description></item></channel></rss>
